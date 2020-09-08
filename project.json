@@ -1,0 +1,35 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "test.chalkbeat.org",
+      "path": "teacher-movement"
+    },
+    "live": {
+      "bucket": "projects.chalkbeat.org",
+      "path": "teacher-movement"
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/logo.png",
+  "analytics": {
+    "topicIDs": [],
+    "primaryTopic": "",
+    "secondaryTopics": []
+  },
+  "sheets": [
+    "1Kpdc6pIxqBpziWURBnAPQz3XNKwkWuInEjVV_DfFRNc"
+  ],
+  "docs": {
+    "copy":"1Tu9VtvwRm1QEIf5gOA-9MsqFVF4lEuQMyJixbpRBtB8"
+  },
+  "embedded": true,
+  "production": false
+}

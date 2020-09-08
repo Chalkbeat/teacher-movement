@@ -1,0 +1,30 @@
+[
+  {
+    "source": 20,
+    "source label": "Traditional Detroit Fall 2015",
+    "target": 21,
+    "target label": "Traditional Detroit Fall 2016",
+    "value": 1
+  },
+  {
+    "source": 21,
+    "source label": "Traditional Detroit Fall 2016",
+    "target": 2,
+    "target label": "Charter Detroit Fall 2017",
+    "value": 1
+  },
+  {
+    "source": 2,
+    "source label": "Charter Detroit Fall 2017",
+    "target": 3,
+    "target label": "Charter Detroit Fall 2018",
+    "value": 1
+  },
+  {
+    "source": 3,
+    "source label": "Charter Detroit Fall 2018",
+    "target": 19,
+    "target label": "Traditional Non-Detroit Fall 2019",
+    "value": 1
+  }
+]

@@ -1,0 +1,1070 @@
+[
+  {
+    "name": "Charter Detroit Fall 2015",
+    "label": "Detroit Charter",
+    "display": "Detroit Charter Teachers",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Detroit Fall 2016",
+    "label": "Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Detroit Fall 2017",
+    "label": "Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Detroit Fall 2018",
+    "label": "Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Detroit Fall 2019",
+    "label": "Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2015",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2016",
+    "label": "Non-Detroit Charter",
+    "display": "Non-Detroit Charter Teachers",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2017",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2018",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2019",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "Detroit"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2015",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2016",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2017",
+    "label": "Non-Detroit Traditional",
+    "display": "Non-Detroit Traditional Teachers",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2018",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2019",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Detroit Fall 2015",
+    "label": "Detroit Traditional",
+    "display": "Detroit Traditional Teachers",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Detroit Fall 2016",
+    "label": "Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Detroit Fall 2017",
+    "label": "Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Detroit Fall 2018",
+    "label": "Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Traditional Detroit Fall 2019",
+    "label": "Detroit Traditional",
+    "display": "",
+    "select": "Detroit"
+  },
+  {
+    "name": "Old Redford Academy - High Fall 2015",
+    "label": "Old Redford Academy",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Old Redford Academy - High Fall 2016",
+    "label": "Old Redford Academy",
+    "display": "Old Redford Academy",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Old Redford Academy - High Fall 2017",
+    "label": "Old Redford Academy",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Old Redford Academy - High Fall 2018",
+    "label": "Old Redford Academy",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Old Redford Academy - High Fall 2019",
+    "label": "Old Redford Academy",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "Charter",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "Traditional",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Old Redford Academy"
+  },
+  {
+    "name": "Voyageur College Prep Fall 2015",
+    "label": "Voyageur College Prep",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Voyageur College Prep Fall 2016",
+    "label": "Voyageur College Prep",
+    "display": "Voyageur College Prep",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Voyageur College Prep Fall 2017",
+    "label": "Voyageur College Prep",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Voyageur College Prep Fall 2018",
+    "label": "Voyageur College Prep",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Voyageur College Prep Fall 2019",
+    "label": "Voyageur College Prep",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "Charter",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "Traditional",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "name": "University Yes Academy Fall 2015",
+    "label": "University Yes Academy",
+    "display": "University Yes Academy",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "University Yes Academy Fall 2016",
+    "label": "University Yes Academy",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "University Yes Academy Fall 2017",
+    "label": "University Yes Academy",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "University Yes Academy Fall 2018",
+    "label": "University Yes Academy",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "University Yes Academy Fall 2019",
+    "label": "University Yes Academy",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "University Yes Academy"
+  },
+  {
+    "name": "Hope of Detroit Academy - Elementary Fall 2015",
+    "label": "Hope of Detroit Academy",
+    "display": "Hope of Detroit Academy",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Hope of Detroit Academy - Elementary Fall 2016",
+    "label": "Hope of Detroit Academy",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Hope of Detroit Academy - Elementary Fall 2017",
+    "label": "Hope of Detroit Academy",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Hope of Detroit Academy - Elementary Fall 2018",
+    "label": "Hope of Detroit Academy",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Hope of Detroit Academy - Elementary Fall 2019",
+    "label": "Hope of Detroit Academy",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Nolan Elementary-Middle School Fall 2015",
+    "label": "Nolan Elementary-Middle School",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Nolan Elementary-Middle School Fall 2016",
+    "label": "Nolan Elementary-Middle School",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Nolan Elementary-Middle School Fall 2017",
+    "label": "Nolan Elementary-Middle School",
+    "display": "Nolan Elementary-Middle School",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Nolan Elementary-Middle School Fall 2018",
+    "label": "Nolan Elementary-Middle School",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Nolan Elementary-Middle School Fall 2019",
+    "label": "Nolan Elementary-Middle School",
+    "display": "",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Central High School Fall 2015",
+    "label": "Central High School",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Central High School Fall 2016",
+    "label": "Central High School",
+    "display": "Central High School",
+    "select": "Central High School"
+  },
+  {
+    "name": "Central High School Fall 2017",
+    "label": "Central High School",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Central High School Fall 2018",
+    "label": "Central High School",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Central High School Fall 2019",
+    "label": "Central High School",
+    "display": "",
+    "select": "Central High School"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Gardner Elementary School Fall 2015",
+    "label": "Gardner Elementary School",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Gardner Elementary School Fall 2016",
+    "label": "Gardner Elementary School",
+    "display": "Gardner Elementary School",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Gardner Elementary School Fall 2017",
+    "label": "Gardner Elementary School",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Gardner Elementary School Fall 2018",
+    "label": "Gardner Elementary School",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Gardner Elementary School Fall 2019",
+    "label": "Gardner Elementary School",
+    "display": "",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "name": "Charter Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Mark Twain Elementary-Middle School Fall 2015",
+    "label": "Mark Twain Elementary-Middle School",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Mark Twain Elementary-Middle School Fall 2016",
+    "label": "Mark Twain Elementary-Middle School",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Mark Twain Elementary-Middle School Fall 2017",
+    "label": "Mark Twain Elementary-Middle School",
+    "display": "Mark Twain Elementary-Middle School",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Mark Twain Elementary-Middle School Fall 2018",
+    "label": "Mark Twain Elementary-Middle School",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Mark Twain Elementary-Middle School Fall 2019",
+    "label": "Mark Twain Elementary-Middle School",
+    "display": "",
+    "select": "Mark Twain Elementary-Middle School"
+  }
+]

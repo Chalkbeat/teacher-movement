@@ -1,0 +1,17 @@
+headline: There’s a fierce battle for teachers in Detroit - and students are losing
+subhed: 
+
+byline: By [Koby Levin](https://www.chalkbeat.org/authors/koby-levin) and [Gabrielle LaMarr LeMee](https://www.chalkbeat.org/authors/gabrielle-lamarr-lemee)
+
+credit: 
+[top]
+* Vitti has raised the stakes of a long running battle for teachers in Detroit, and he appears to be winning. While that may be a good thing for kids in his district, it underscores the city’s struggle to attract and retain qualified teachers, and that is very bad news for every child in the city.
+[]
+[steps]
+* University Yes Academy, a charter school, has had a declining teacher population and has struggled with teacher retention for years. 
+* From 2015 to 2016, only XX% of University Yes Academy teachers remained at the school. In the most recent year we have data, from 2018 to 2019, around 50% remained.
+* Where are those teachers going? Some are going to other charter schools.
+* Some are going to traditional schools.
+* Some retire or decide to no longer teach in Michigan. 
+* The same trend is true for all of Detroit.
+[]
