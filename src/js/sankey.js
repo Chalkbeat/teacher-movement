@@ -244,14 +244,22 @@ d3.sankey = function() {
         while (remainingNodes.length) {
           nextNodes = [];
           remainingNodes.forEach(function(node) {
-            if(node.name.includes("2015")){
+            if(node.name.includes("Fall 2015")){
               y = yScale(2015)
-            } else if (node.name.includes("2016")) {
+            } else if (node.name.includes("EOY 2016")) {
+              y = yScale(2015.5)
+            } else if (node.name.includes("Fall 2016")) {
               y = yScale(2016)
-            } else if (node.name.includes("2017")) {
+            } else if (node.name.includes("EOY 2017")) {
+              y = yScale(2016.5)
+            } else if (node.name.includes("Fall 2017")) {
               y = yScale(2017)
-            } else if (node.name.includes("2018")) {
+            } else if (node.name.includes("EOY 2018")) {
+              y = yScale(2017.5)
+            } else if (node.name.includes("Fall 2018")) {
               y = yScale(2018)
+            } else if (node.name.includes("EOY 2019")) {
+              y = yScale(2018.5)
             } else {
               y = yScale(2019)
             }

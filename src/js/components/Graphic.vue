@@ -37,7 +37,7 @@
     },
     mounted() {
       var graphicDiv = d3.select('#graphic');
-      var margins = { top: 30, right: 15, bottom: 20, left: 50 };
+      var margins = { top: 60, right: 15, bottom: 20, left: 50 };
       var width = graphicDiv.node().clientWidth;
       var height = 500;
       var chartWidth = width - margins.left - margins.right;
@@ -67,7 +67,6 @@
           .scaleLinear()
           .domain([2015, 2019])
           .range([16, drawHeight]); // Not sure why this extra 10 is needed to align correctly
-
 
         var nodesFilter = nodes.filter(d => d.select == school);
         var linksFilter = links.filter(d => d.select == school);
@@ -179,8 +178,6 @@
               .style("fill", d => colors(d.label))
         );
 
-        // Create source nodes and target nodes
-
         var nodeLabel = chartElement
           .selectAll(".display-label")
           .data(data.nodes).join(
@@ -188,13 +185,13 @@
             .attr("class", "display-label")
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .attr("x", d => d.dy/2)
-            .attr("y", -18)
+            .attr("y", -36)
             .style("fill", COLORS.gray1)
-            .text(d => d.display ? d.display : ""),
+            .html(d => d.display ? d.display : ""),
           update => update
             .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
             .attr("x", d => d.dy/2)
-            .text(d => d.display ? d.display : "")
+            .html(d => d.display ? d.display : "")
         );
 
         var nodeLabelArrows = chartElement
@@ -202,13 +199,13 @@
           .data(data.nodes).join(
           enter => enter.append("text")
             .attr("class", "display-label-arrow")
-            .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+            .attr("transform", function(d) { return "translate(" + (d.x - 5) + "," + d.y + ")"; })
             .attr("x", d => d.dy/2)
             .attr("y", -4)
             .style("fill", d => colors(d.label))
             .text(d => d.display ? "▼" : ""),
           update => update
-            .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+            .attr("transform", function(d) { return "translate(" + (d.x - 5) + "," + d.y + ")"; })
             .attr("x", d => d.dy/2)
             .attr("y", -4)
             .style("fill", d => colors(d.label))
@@ -339,13 +336,13 @@
             stepNodesTarget.style("visibility", d => (d.name.includes("Charter Detroit") | d.name.includes("Traditional Detroit")) ? "visible" : "hidden");
           },
           function step7() {
-            // draw("Detroit Midyear 2015", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            // stepNodesSource = d3.selectAll(".node-source");
-            // stepNodesTarget = d3.selectAll(".node-target");
-            // stepLinks = d3.selectAll(".link");
-            // stepLinks.style("animation", drawAnimation);
-            // stepNodesSource.style("visibility","visible");
-            // stepNodesTarget.style("visibility","visible");
+            draw("Detroit Midyear", chartWidth, chartHeight, colorsDetroit, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source");
+            stepNodesTarget = d3.selectAll(".node-target");
+            stepLinks = d3.selectAll(".link");
+            stepLinks.style("animation", drawAnimation);
+            stepNodesSource.style("visibility","visible");
+            stepNodesTarget.style("visibility","visible");
           }
         ]
 

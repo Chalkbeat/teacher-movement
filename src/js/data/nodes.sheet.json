@@ -2,7 +2,7 @@
   {
     "name": "Charter Detroit Fall 2015",
     "label": "Detroit Charter",
-    "display": "Detroit Charter Teachers",
+    "display": "Detroit <tspan x=\"74\" dy=\"1em\"> Charter Teachers </tspan>",
     "select": "Detroit"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "Charter Non-Detroit Fall 2016",
     "label": "Non-Detroit Charter",
-    "display": "Non-Detroit Charter Teachers",
+    "display": "Non-Detroit <tspan x=\"4\" dy=\"1em\"> Charter Teachers </tspan>",
     "select": "Detroit"
   },
   {
@@ -80,7 +80,7 @@
   {
     "name": "None Fall 2018",
     "label": "Not Teaching in Michigan",
-    "display": "Not Teaching in Michigan",
+    "display": "Not Teaching <tspan x=\"30\" dy=\"1em\"> in Michigan </tspan>",
     "select": "Detroit"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "Traditional Non-Detroit Fall 2017",
     "label": "Non-Detroit Traditional",
-    "display": "Non-Detroit Traditional Teachers",
+    "display": "Non-Detroit <tspan x=\"10\" dy=\"1em\"> Traditional Teachers </tspan>",
     "select": "Detroit"
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "Traditional Detroit Fall 2015",
     "label": "Detroit Traditional",
-    "display": "Detroit Traditional Teachers",
+    "display": "Detroit <tspan x=\"112\" dy=\"1em\"> Traditional Teachers </tspan>",
     "select": "Detroit"
   },
   {
@@ -386,7 +386,7 @@
   {
     "name": "University Yes Academy Fall 2015",
     "label": "University Yes Academy",
-    "display": "University Yes Academy",
+    "display": "University <tspan x=\"66\" dy=\"1em\"> Yes Academy </tspan>",
     "select": "University Yes Academy"
   },
   {
@@ -1071,7 +1071,7 @@
     "name": "Charter Detroit Fall 2015",
     "label": "Charter",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Charter Detroit Fall 2016",
@@ -1095,7 +1095,7 @@
     "name": "Charter Detroit EOY 2016",
     "label": "Charter",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Charter Detroit EOY 2017",
@@ -1119,7 +1119,7 @@
     "name": "Charter Non-Detroit Fall 2015",
     "label": "Non-Detroit Charter",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Charter Non-Detroit Fall 2016",
@@ -1143,7 +1143,7 @@
     "name": "Charter Non-Detroit EOY 2016",
     "label": "Non-Detroit Charter",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Charter Non-Detroit EOY 2017",
@@ -1167,7 +1167,7 @@
     "name": "None Fall 2015",
     "label": "Not Teaching in Michigan",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "None Fall 2016",
@@ -1191,7 +1191,7 @@
     "name": "None EOY 2016",
     "label": "Not Teaching in Michigan",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "None EOY 2017",
@@ -1215,7 +1215,7 @@
     "name": "Traditional Non-Detroit Fall 2015",
     "label": "Non-Detroit Traditional",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Traditional Non-Detroit Fall 2016",
@@ -1239,7 +1239,7 @@
     "name": "Traditional Non-Detroit EOY 2016",
     "label": "Non-Detroit Traditional",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Traditional Non-Detroit EOY 2017",
@@ -1263,7 +1263,7 @@
     "name": "Traditional Detroit Fall 2015",
     "label": "Traditional",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Traditional Detroit Fall 2016",
@@ -1287,7 +1287,7 @@
     "name": "Traditional Detroit EOY 2016",
     "label": "Traditional",
     "display": "",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "name": "Traditional Detroit EOY 2017",

@@ -2125,7 +2125,7 @@
     "value": 1717,
     "source_label": "Charter Detroit Fall 2015",
     "target_label": "Charter Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 0,
@@ -2133,7 +2133,7 @@
     "value": 28,
     "source_label": "Charter Detroit Fall 2015",
     "target_label": "Charter Non-Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 0,
@@ -2141,7 +2141,7 @@
     "value": 166,
     "source_label": "Charter Detroit Fall 2015",
     "target_label": "None EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 0,
@@ -2149,7 +2149,7 @@
     "value": 10,
     "source_label": "Charter Detroit Fall 2015",
     "target_label": "Traditional Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 0,
@@ -2157,7 +2157,7 @@
     "value": 33,
     "source_label": "Charter Detroit Fall 2015",
     "target_label": "Traditional Non-Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 8,
@@ -2165,7 +2165,7 @@
     "value": 15,
     "source_label": "Charter Non-Detroit Fall 2015",
     "target_label": "Charter Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 8,
@@ -2173,7 +2173,7 @@
     "value": 5,
     "source_label": "Charter Non-Detroit Fall 2015",
     "target_label": "Traditional Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 16,
@@ -2181,7 +2181,7 @@
     "value": 113,
     "source_label": "None Fall 2015",
     "target_label": "Charter Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 16,
@@ -2189,7 +2189,7 @@
     "value": 88,
     "source_label": "None Fall 2015",
     "target_label": "Traditional Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 32,
@@ -2197,7 +2197,7 @@
     "value": 8,
     "source_label": "Traditional Detroit Fall 2015",
     "target_label": "Charter Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 32,
@@ -2205,7 +2205,7 @@
     "value": 5,
     "source_label": "Traditional Detroit Fall 2015",
     "target_label": "Charter Non-Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 32,
@@ -2213,7 +2213,7 @@
     "value": 256,
     "source_label": "Traditional Detroit Fall 2015",
     "target_label": "None EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 32,
@@ -2221,7 +2221,7 @@
     "value": 2660,
     "source_label": "Traditional Detroit Fall 2015",
     "target_label": "Traditional Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 32,
@@ -2229,7 +2229,7 @@
     "value": 27,
     "source_label": "Traditional Detroit Fall 2015",
     "target_label": "Traditional Non-Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 24,
@@ -2237,7 +2237,7 @@
     "value": 5,
     "source_label": "Traditional Non-Detroit Fall 2015",
     "target_label": "Charter Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 24,
@@ -2245,7 +2245,7 @@
     "value": 3,
     "source_label": "Traditional Non-Detroit Fall 2015",
     "target_label": "Traditional Detroit EOY 2016",
-    "select": "Detroit Midyear 2015"
+    "select": "Detroit Midyear"
   },
   {
     "source": 1,
@@ -2253,7 +2253,7 @@
     "value": 1552,
     "source_label": "Charter Detroit Fall 2016",
     "target_label": "Charter Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 1,
@@ -2261,7 +2261,7 @@
     "value": 15,
     "source_label": "Charter Detroit Fall 2016",
     "target_label": "Charter Non-Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 1,
@@ -2269,7 +2269,7 @@
     "value": 199,
     "source_label": "Charter Detroit Fall 2016",
     "target_label": "None EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 1,
@@ -2277,7 +2277,7 @@
     "value": 12,
     "source_label": "Charter Detroit Fall 2016",
     "target_label": "Traditional Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 1,
@@ -2285,7 +2285,7 @@
     "value": 31,
     "source_label": "Charter Detroit Fall 2016",
     "target_label": "Traditional Non-Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 9,
@@ -2293,7 +2293,7 @@
     "value": 15,
     "source_label": "Charter Non-Detroit Fall 2016",
     "target_label": "Charter Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 9,
@@ -2301,7 +2301,7 @@
     "value": 2,
     "source_label": "Charter Non-Detroit Fall 2016",
     "target_label": "Traditional Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 17,
@@ -2309,7 +2309,7 @@
     "value": 87,
     "source_label": "None Fall 2016",
     "target_label": "Charter Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 17,
@@ -2317,7 +2317,7 @@
     "value": 67,
     "source_label": "None Fall 2016",
     "target_label": "Traditional Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 33,
@@ -2325,7 +2325,7 @@
     "value": 6,
     "source_label": "Traditional Detroit Fall 2016",
     "target_label": "Charter Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 33,
@@ -2333,7 +2333,7 @@
     "value": 3,
     "source_label": "Traditional Detroit Fall 2016",
     "target_label": "Charter Non-Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 33,
@@ -2341,7 +2341,7 @@
     "value": 100,
     "source_label": "Traditional Detroit Fall 2016",
     "target_label": "None EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 33,
@@ -2349,7 +2349,7 @@
     "value": 2609,
     "source_label": "Traditional Detroit Fall 2016",
     "target_label": "Traditional Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 33,
@@ -2357,7 +2357,7 @@
     "value": 17,
     "source_label": "Traditional Detroit Fall 2016",
     "target_label": "Traditional Non-Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 25,
@@ -2365,7 +2365,7 @@
     "value": 6,
     "source_label": "Traditional Non-Detroit Fall 2016",
     "target_label": "Charter Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 25,
@@ -2373,7 +2373,7 @@
     "value": 5,
     "source_label": "Traditional Non-Detroit Fall 2016",
     "target_label": "Traditional Detroit EOY 2017",
-    "select": "Detroit Midyear 2016"
+    "select": "Detroit Midyear"
   },
   {
     "source": 2,
