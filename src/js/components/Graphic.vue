@@ -141,23 +141,45 @@
               .style("stroke", d => colors(d.source.label))
         );
 
-        var nodes = chartElement
+        var sourceNodes = chartElement
           .selectAll(".node")
           .data(data.nodes).join(
             enter => enter.append("rect")
-              .attr("class", d => "node node-" + classify(d.label))
+              .attr("class", d => "node node-source node-source-" + classify(d.label))
+              // .attr("transform", function(d) { return "translate(" + d.x + "," + (d.y + sankeyLayout.nodeWidth()/2)+ ")"; })
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+              // .attr("height", sankeyLayout.nodeWidth()/2)
               .attr("height", sankeyLayout.nodeWidth())
-              .attr("width", function(d) { return d.dy; })
+              .attr("width", function(d) { return d.ds; })
               .style("fill", d => colors(d.label)),
             update => update
               .transition()
-              .attr("class", d => "node node-" + classify(d.label))
+              .attr("class", d => "node node-source node-source-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
-              .attr("width", function(d) { return d.dy; })
+              .attr("width", function(d) { return d.ds; })
               .style("fill", d => colors(d.label))
         );
+
+        var targetNodes = chartElement
+          .selectAll(".node-target")
+          .data(data.nodes).join(
+            enter => enter.append("rect")
+              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+              .attr("height", sankeyLayout.nodeWidth())
+              .attr("width", function(d) { return d.dt; })
+              .style("fill", d => colors(d.label)),
+            update => update
+              .transition()
+              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+              .attr("height", sankeyLayout.nodeWidth())
+              .attr("width", function(d) { return d.dt; })
+              .style("fill", d => colors(d.label))
+        );
+
+        // Create source nodes and target nodes
 
         var nodeLabel = chartElement
           .selectAll(".display-label")
@@ -193,7 +215,9 @@
             .text(d => d.display ? "▼" : "")
         );
 
+
         links.on("mouseover", function(d){
+          console.log(d);
           linkData = d;
           var link = d3.select(this);
           var allYears = d3.selectAll(".source-" + classify(d.source.label) + ".target-" + classify(d.target.label))
@@ -202,12 +226,12 @@
           tooltip.style("visibility","visible")
           tooltip.html(linkData.source.label == linkData.target.label ?
               // Same district
-              "<strong>" + linkData.value + "</strong> teachers remained at <strong>" +
+              "<strong>" + linkData.value + "</strong> teachers, " + Math.round((linkData.value/linkData.source.value)*100) + "% of the total, remained at <strong>" +
               linkData.target.label + " schools</strong> from " +
               linkData.source.name.substr(-4) + " to " +
               linkData.target.name.substr(-4) :
               // Different district
-              "<strong>" + linkData.value + "</strong> teachers moved from <strong>" +
+              "<strong>" + linkData.value + "</strong> teachers, " + Math.round((linkData.value/linkData.source.value)*100) + "% of the total, moved from <strong>" +
               linkData.source.label + " schools</strong> to <strong>" +
               linkData.target.label + " schools</strong> from " +
               linkData.source.name.substr(-4) + " to " +
@@ -238,53 +262,61 @@
 
       var drawAnimation = "draw 3000ms ease-in 4ms forwards";
 
+      // Select targetNodes and sourceNodes separately. For now, this is focused on source.
       window.updateGraphic = function(graphicSelector) {
         var stepNodes, stepLinks;
 
         var steps = [
           function step0() {
             draw("University Yes Academy", 200, 100, colorsSchool, nodes, links);
-            stepNodes = d3.selectAll(".node");
+            stepNodesSource = d3.selectAll(".node-source");
+            stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation","none");
-            stepNodes.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
           },
           function step1() {
             draw("University Yes Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodes = d3.selectAll(".node");
+            stepNodesSource = d3.selectAll(".node-source");
+            stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
+            stepNodesTarget.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
             stepLinks.style("animation",d => d.target_label.includes("University Yes Academy") &
                                              d.source_label.includes("University Yes Academy") ?
                                              drawAnimation : "none");
           },
           function step2() {
-            stepLinks.style("animation",d => (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
+            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) ?
                                               drawAnimation : "none");
-            stepNodes.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step3() {
-            stepLinks.style("animation",d => (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
+            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("Traditional")) ?
                                               drawAnimation : "none");
-            stepNodes.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step4() {
             draw("University Yes Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodes = d3.selectAll(".node");
+            stepNodesSource = d3.selectAll(".node-source");
+            stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
-            stepLinks.style("animation",d => (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
+            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("Traditional")) |
                                               (d.source_label.includes("University Yes Academy") & d.target_label.includes("None")) ?
                                               drawAnimation : "none");
-            stepNodes.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) |
                                               (d.name.includes("None") & !d.name.includes("2015")) ?
@@ -292,10 +324,28 @@
           },
           function step5() {
             draw("Detroit", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            stepNodes = d3.selectAll(".node");
+            stepNodesSource = d3.selectAll(".node-source");
+            stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
-            stepLinks.style("animation", drawAnimation);
-            stepNodes.style("visibility","visible");
+            stepLinks.style("animation",d =>  (d.source_label.includes("Charter Detroit") | d.source_label.includes("Traditional Detroit"))  ?
+                                              drawAnimation : "none");
+            stepNodesSource.style("visibility", d => (d.name.includes("Charter Detroit") | d.name.includes("Traditional Detroit")) ? "visible" : "hidden");
+            stepNodesTarget.style("visibility","visible");
+          },
+          function step6() {
+            stepLinks.style("animation",d =>  (d.target_label.includes("Charter Detroit") | d.target_label.includes("Traditional Detroit"))  ?
+                                              drawAnimation : "none");
+            stepNodesSource.style("visibility","visible");
+            stepNodesTarget.style("visibility", d => (d.name.includes("Charter Detroit") | d.name.includes("Traditional Detroit")) ? "visible" : "hidden");
+          },
+          function step7() {
+            // draw("Detroit Midyear 2015", chartWidth, chartHeight, colorsDetroit, nodes, links);
+            // stepNodesSource = d3.selectAll(".node-source");
+            // stepNodesTarget = d3.selectAll(".node-target");
+            // stepLinks = d3.selectAll(".link");
+            // stepLinks.style("animation", drawAnimation);
+            // stepNodesSource.style("visibility","visible");
+            // stepNodesTarget.style("visibility","visible");
           }
         ]
 

@@ -1066,5 +1066,245 @@
     "label": "Mark Twain Elementary-Middle School",
     "display": "",
     "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "name": "Charter Detroit Fall 2015",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Charter Detroit Fall 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Detroit Fall 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Detroit Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Detroit EOY 2016",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Charter Detroit EOY 2017",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Detroit EOY 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Detroit EOY 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2015",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2016",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2017",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit Fall 2018",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit EOY 2016",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Charter Non-Detroit EOY 2017",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit EOY 2018",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Charter Non-Detroit EOY 2019",
+    "label": "Non-Detroit Charter",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None Fall 2015",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "None Fall 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None Fall 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None EOY 2016",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "None EOY 2017",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None EOY 2018",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "None EOY 2019",
+    "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2015",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2016",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2017",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit Fall 2018",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit EOY 2016",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Traditional Non-Detroit EOY 2017",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit EOY 2018",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Non-Detroit EOY 2019",
+    "label": "Non-Detroit Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit Fall 2015",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Traditional Detroit Fall 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit Fall 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit EOY 2016",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear 2015"
+  },
+  {
+    "name": "Traditional Detroit EOY 2017",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit EOY 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
+  },
+  {
+    "name": "Traditional Detroit EOY 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Detroit Midyear"
   }
 ]

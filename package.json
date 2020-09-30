@@ -31,6 +31,8 @@
     "less": "^3.9.0",
     "markdown-it": "^10.0.0",
     "mime": "^2.4.2",
+    "moment": "^2.29.0",
+    "moment-timezone": "^0.5.31",
     "opn": "^5.4.0",
     "resolve": "^1.1.7",
     "shelljs": "^0.8.3",

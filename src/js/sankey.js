@@ -125,6 +125,8 @@ d3.sankey = function() {
         d3.sum(node.sourceLinks, value),
         d3.sum(node.targetLinks, value)
       );
+      node.sourceValue = d3.sum(node.sourceLinks, value);
+      node.targetValue = d3.sum(node.targetLinks, value);
     });
   }
 
@@ -147,6 +149,8 @@ d3.sankey = function() {
       nodes.forEach(function(node, i) {
         node.x = i;
         node.dy = node.value * ky;
+        node.ds = node.sourceValue * ky;
+        node.dt = node.targetValue * ky;
       });
     });
 
