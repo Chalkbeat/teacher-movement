@@ -30,9 +30,16 @@
       </div>
     </div>
     <div class="text-container">
-      <p v-for="p in copy.top">{{ p }}</p>
+      <p v-for="p in copy.text1">{{ p }}</p>
     </div>
-    <Graphic :copy=copy></Graphic>
+    <Graphic1 :copy=copy></Graphic1>
+    <div class="text-container">
+      <p v-for="p in copy.text2">{{ p }}</p>
+    </div>
+    <Graphic2 :copy=copy></Graphic2>
+    <div class="text-container">
+      <p v-for="p in copy.text3">{{ p }}</p>
+    </div>
   </div>
 </template>
 
@@ -45,7 +52,8 @@
   var date = now;
   var copy = require("./data/copy.docs.txt");
   copy = archieml.load(copy);
-  var Graphic = require('./components/Graphic.vue');
+  var Graphic1 = require('./components/Graphic1.vue');
+  var Graphic2 = require('./components/Graphic2.vue');
 
   const RSS_URL = `https://detroit.chalkbeat.org/rss/front-page/index.xml`;
 
@@ -67,9 +75,7 @@
       var byline = document.createElement("Div");
       title.innerHTML = el.querySelector("title").innerHTML;
       title.href = el.querySelector("id").innerHTML;
-      // byline.innerHTML = "By" + el.querySelector("author").innerHTML;
       article.appendChild(title);
-      // article.appendChild(byline);
       articleGroup.appendChild(article);
     }
 
@@ -94,7 +100,8 @@
       }
     },
     components: {
-      Graphic
+      Graphic1,
+      Graphic2
     },
   }
 </script>

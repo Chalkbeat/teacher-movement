@@ -3,7 +3,7 @@
     <div id="tooltip"></div>
     <div class="graphic-left" id="graphic"></div>
     <div class="graphic-right">
-      <div class="trigger" v-for="step in copy.steps">{{ step }}</div>
+      <div class="trigger trigger-1" v-for="step in copy.steps1">{{ step }}</div>
     </div>
   </div>
 </template>
@@ -56,7 +56,7 @@
         if (label.includes("Not Teaching")) { return COLORS.gray2;
         } else if (label.includes("Charter")) { return COLORS.purple1;
         } else if (label.includes("Traditional")) { return COLORS.teal1;
-        } else if (label.includes("Old Redford Academy") | label.includes("Voyageur College Prep") |label.includes("Hope of Detroit Academy") | label.includes("University Yes Academy")) { return COLORS.purple2;
+        } else if (label.includes("Old Redford Academy") | label.includes("Voyageur College Prep") |label.includes("Hope of Detroit Academy") | label.includes("Hope of Detroit Academy")) { return COLORS.purple2;
         } else if (label.includes("Nolan Elementary-Middle School") | label.includes("Central High School") |label.includes("Gardner Elementary School") | label.includes("Mark Twain Elementary-Middle School")) { return COLORS.teal2;
         } else { return COLORS.gray3; }
       }
@@ -265,55 +265,55 @@
 
         var steps = [
           function step0() {
-            draw("University Yes Academy", 200, 100, colorsSchool, nodes, links);
+            draw("Hope of Detroit Academy", 200, 100, colorsSchool, nodes, links);
             stepNodesSource = d3.selectAll(".node-source");
             stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation","none");
-            stepNodesTarget.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
-            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
           },
           function step1() {
-            draw("University Yes Academy", 200, 400, colorsSchool, nodes, links);
+            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
             stepNodesSource = d3.selectAll(".node-source");
             stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
-            stepNodesTarget.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
-            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
-            stepLinks.style("animation",d => d.target_label.includes("University Yes Academy") &
-                                             d.source_label.includes("University Yes Academy") ?
+            stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
+            stepLinks.style("animation",d => d.target_label.includes("Hope of Detroit Academy") &
+                                             d.source_label.includes("Hope of Detroit Academy") ?
                                              drawAnimation : "none");
           },
           function step2() {
-            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) ?
                                               drawAnimation : "none");
-            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step3() {
-            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("Traditional")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Traditional")) ?
                                               drawAnimation : "none");
-            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step4() {
-            draw("University Yes Academy", 200, 400, colorsSchool, nodes, links);
+            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
             stepNodesSource = d3.selectAll(".node-source");
             stepNodesTarget = d3.selectAll(".node-target");
             stepLinks = d3.selectAll(".link");
-            stepLinks.style("animation",d =>  (d.source_label.includes("University Yes Academy") & d.target_label.includes("University Yes Academy")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("Charter")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("Traditional")) |
-                                              (d.source_label.includes("University Yes Academy") & d.target_label.includes("None")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Traditional")) |
+                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("None")) ?
                                               drawAnimation : "none");
-            stepNodesSource.style("visibility", d => d.name.includes("University Yes Academy") ? "visible" : "hidden");
-            stepNodesTarget.style("visibility",d => (d.name.includes("University Yes Academy")) |
+            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) |
                                               (d.name.includes("None") & !d.name.includes("2015")) ?
@@ -343,6 +343,8 @@
             stepLinks.style("animation", drawAnimation);
             stepNodesSource.style("visibility","visible");
             stepNodesTarget.style("visibility","visible");
+          },
+          function step8() {
           }
         ]
 
@@ -363,7 +365,7 @@
       } // end update graphic function
 
       var graphicEl = d3.select('#graphic-container');
-      var triggers = d3.selectAll('.trigger');
+      var triggers = d3.selectAll('.trigger-1');
       var viewportHeight = window.innerHeight;
       var graphic = updateGraphic('#graphic-container');
 
