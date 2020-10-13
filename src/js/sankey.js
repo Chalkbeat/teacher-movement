@@ -13,7 +13,7 @@ d3.sankey = function() {
   var yScale = d3
     .scaleLinear()
     .domain([2015, 2019])
-    .range([10, 400]);
+    .range([0, 400]);
 
   sankey.nodeWidth = function(_) {
     if (!arguments.length) return nodeWidth;

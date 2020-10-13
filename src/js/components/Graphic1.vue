@@ -3,7 +3,7 @@
     <div id="tooltip"></div>
     <div class="graphic-left" id="graphic"></div>
     <div class="graphic-right">
-      <div class="trigger trigger-1" v-for="step in copy.steps1">{{ step }}</div>
+      <div class="trigger trigger-1" v-for="step in copy.steps1" v-html="md(step)"></div>
     </div>
   </div>
 </template>
@@ -66,7 +66,7 @@
         var yScale = d3
           .scaleLinear()
           .domain([2015, 2019])
-          .range([16, drawHeight]); // Not sure why this extra 10 is needed to align correctly
+          .range([11, drawHeight]); // Not sure why this extra 10 is needed to align correctly
 
         var nodesFilter = nodes.filter(d => d.select == school);
         var linksFilter = links.filter(d => d.select == school);
@@ -141,19 +141,17 @@
         );
 
         var sourceNodes = chartElement
-          .selectAll(".node")
+          .selectAll(".node-source-1")
           .data(data.nodes).join(
             enter => enter.append("rect")
-              .attr("class", d => "node node-source node-source-" + classify(d.label))
-              // .attr("transform", function(d) { return "translate(" + d.x + "," + (d.y + sankeyLayout.nodeWidth()/2)+ ")"; })
+              .attr("class", d => "node node-source-1 node-source-1-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-              // .attr("height", sankeyLayout.nodeWidth()/2)
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.ds; })
               .style("fill", d => colors(d.label)),
             update => update
               .transition()
-              .attr("class", d => "node node-source node-source-" + classify(d.label))
+              .attr("class", d => "node node-source-1 node-source-1-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.ds; })
@@ -161,17 +159,17 @@
         );
 
         var targetNodes = chartElement
-          .selectAll(".node-target")
+          .selectAll(".node-target-1")
           .data(data.nodes).join(
             enter => enter.append("rect")
-              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("class", d => "node node-target-1 node-target-1-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.dt; })
               .style("fill", d => colors(d.label)),
             update => update
               .transition()
-              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("class", d => "node node-target-1 node-target-1-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.dt; })
@@ -265,26 +263,28 @@
 
         var steps = [
           function step0() {
+            console.log('step 0');
             draw("Hope of Detroit Academy", 200, 100, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            stepNodesSource = d3.selectAll(".node-source-1");
+            stepNodesTarget = d3.selectAll(".node-target-1");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation","none");
             stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
             stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
           },
           function step1() {
-            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            console.log('step 1');
+            draw("Hope of Detroit Academy", 200, chartHeight, colorsSchool, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source-1");
+            stepNodesTarget = d3.selectAll(".node-target-1");
             stepLinks = d3.selectAll(".link");
             stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
             stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
-            stepLinks.style("animation",d => d.target_label.includes("Hope of Detroit Academy") &
-                                             d.source_label.includes("Hope of Detroit Academy") ?
+            stepLinks.style("animation",d => (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) ?
                                              drawAnimation : "none");
           },
           function step2() {
+            console.log('step 2');
             stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
                                               (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) ?
                                               drawAnimation : "none");
@@ -293,6 +293,7 @@
                                               "visible" : "hidden");
           },
           function step3() {
+            console.log('step 3');
             stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
                                               (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
                                               (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Traditional")) ?
@@ -303,9 +304,10 @@
                                               "visible" : "hidden");
           },
           function step4() {
-            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            console.log('step 4');
+            draw("Hope of Detroit Academy", 200, chartHeight, colorsSchool, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source-1");
+            stepNodesTarget = d3.selectAll(".node-target-1");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
                                               (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
@@ -321,8 +323,8 @@
           },
           function step5() {
             draw("Detroit", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            stepNodesSource = d3.selectAll(".node-source-1");
+            stepNodesTarget = d3.selectAll(".node-target-1");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation",d =>  (d.source_label.includes("Charter Detroit") | d.source_label.includes("Traditional Detroit"))  ?
                                               drawAnimation : "none");
@@ -337,8 +339,8 @@
           },
           function step7() {
             draw("Detroit Midyear", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            stepNodesSource = d3.selectAll(".node-source-1");
+            stepNodesTarget = d3.selectAll(".node-target-1");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation", drawAnimation);
             stepNodesSource.style("visibility","visible");

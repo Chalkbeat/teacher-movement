@@ -1,9 +1,9 @@
 <template>
-  <div id="graphic-container">
+  <div id="graphic-container-2">
     <div id="tooltip-2"></div>
     <div class="graphic-left" id="graphic-2"></div>
     <div class="graphic-right">
-      <div class="trigger trigger-2" v-for="step in copy.steps2">{{ step }}</div>
+      <div class="trigger trigger-2" v-for="step in copy.steps2" v-html="md(step)"></div>
     </div>
   </div>
 </template>
@@ -56,7 +56,7 @@
         if (label.includes("Not Teaching")) { return COLORS.gray2;
         } else if (label.includes("Charter")) { return COLORS.purple1;
         } else if (label.includes("Traditional")) { return COLORS.teal1;
-        } else if (label.includes("Old Redford Academy") | label.includes("Voyageur College Prep") |label.includes("Hope of Detroit Academy") | label.includes("Hope of Detroit Academy")) { return COLORS.purple2;
+        } else if (label.includes("Old Redford Academy") | label.includes("Voyageur College Prep") |label.includes("Old Redford Academy") | label.includes("Old Redford Academy")) { return COLORS.purple2;
         } else if (label.includes("Nolan Elementary-Middle School") | label.includes("Central High School") |label.includes("Gardner Elementary School") | label.includes("Mark Twain Elementary-Middle School")) { return COLORS.teal2;
         } else { return COLORS.gray3; }
       }
@@ -144,7 +144,7 @@
           .selectAll(".node")
           .data(data.nodes).join(
             enter => enter.append("rect")
-              .attr("class", d => "node node-source node-source-" + classify(d.label))
+              .attr("class", d => "node node-source-2 node-source-" + classify(d.label))
               // .attr("transform", function(d) { return "translate(" + d.x + "," + (d.y + sankeyLayout.nodeWidth()/2)+ ")"; })
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               // .attr("height", sankeyLayout.nodeWidth()/2)
@@ -153,7 +153,7 @@
               .style("fill", d => colors(d.label)),
             update => update
               .transition()
-              .attr("class", d => "node node-source node-source-" + classify(d.label))
+              .attr("class", d => "node node-source-2 node-source-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.ds; })
@@ -161,17 +161,17 @@
         );
 
         var targetNodes = chartElement
-          .selectAll(".node-target")
+          .selectAll(".node-target-2")
           .data(data.nodes).join(
             enter => enter.append("rect")
-              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("class", d => "node node-target-2 node-target-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.dt; })
               .style("fill", d => colors(d.label)),
             update => update
               .transition()
-              .attr("class", d => "node node-target node-target-" + classify(d.label))
+              .attr("class", d => "node node-target-2 node-target-" + classify(d.label))
               .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
               .attr("height", sankeyLayout.nodeWidth())
               .attr("width", function(d) { return d.dt; })
@@ -265,55 +265,55 @@
 
         var steps = [
           function step0() {
-            draw("Hope of Detroit Academy", 200, 100, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            draw("Old Redford Academy", 200, 100, colorsSchool, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source-2");
+            stepNodesTarget = d3.selectAll(".node-target-2");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation","none");
-            stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
-            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility", d => d.name.includes("Old Redford Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("Old Redford Academy") ? "visible" : "hidden");
           },
           function step1() {
-            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            draw("Old Redford Academy", 200, 400, colorsSchool, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source-2");
+            stepNodesTarget = d3.selectAll(".node-target-2");
             stepLinks = d3.selectAll(".link");
-            stepNodesTarget.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
-            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
-            stepLinks.style("animation",d => d.target_label.includes("Hope of Detroit Academy") &
-                                             d.source_label.includes("Hope of Detroit Academy") ?
+            stepNodesTarget.style("visibility", d => d.name.includes("Old Redford Academy") ? "visible" : "hidden");
+            stepNodesSource.style("visibility", d => d.name.includes("Old Redford Academy") ? "visible" : "hidden");
+            stepLinks.style("animation",d => d.target_label.includes("Old Redford Academy") &
+                                             d.source_label.includes("Old Redford Academy") ?
                                              drawAnimation : "none");
           },
           function step2() {
-            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Old Redford Academy")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Charter")) ?
                                               drawAnimation : "none");
-            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("Old Redford Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step3() {
-            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Traditional")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Old Redford Academy")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Charter")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Traditional")) ?
                                               drawAnimation : "none");
-            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
+            stepNodesTarget.style("visibility",d => (d.name.includes("Old Redford Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) ?
                                               "visible" : "hidden");
           },
           function step4() {
-            draw("Hope of Detroit Academy", 200, 400, colorsSchool, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            draw("Old Redford Academy", 200, 400, colorsSchool, nodes, links);
+            stepNodesSource = d3.selectAll(".node-source-2");
+            stepNodesTarget = d3.selectAll(".node-target-2");
             stepLinks = d3.selectAll(".link");
-            stepLinks.style("animation",d =>  (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Hope of Detroit Academy")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Charter")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("Traditional")) |
-                                              (d.source_label.includes("Hope of Detroit Academy") & d.target_label.includes("None")) ?
+            stepLinks.style("animation",d =>  (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Old Redford Academy")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Charter")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("Traditional")) |
+                                              (d.source_label.includes("Old Redford Academy") & d.target_label.includes("None")) ?
                                               drawAnimation : "none");
-            stepNodesSource.style("visibility", d => d.name.includes("Hope of Detroit Academy") ? "visible" : "hidden");
-            stepNodesTarget.style("visibility",d => (d.name.includes("Hope of Detroit Academy")) |
+            stepNodesSource.style("visibility", d => d.name.includes("Old Redford Academy") ? "visible" : "hidden");
+            stepNodesTarget.style("visibility",d => (d.name.includes("Old Redford Academy")) |
                                               (d.name.includes("Charter") & !d.name.includes("2015")) |
                                               (d.name.includes("Traditional") & !d.name.includes("2015")) |
                                               (d.name.includes("None") & !d.name.includes("2015")) ?
@@ -321,8 +321,8 @@
           },
           function step5() {
             draw("Detroit", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            stepNodesSource = d3.selectAll(".node-source-2");
+            stepNodesTarget = d3.selectAll(".node-target-2");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation",d =>  (d.source_label.includes("Charter Detroit") | d.source_label.includes("Traditional Detroit"))  ?
                                               drawAnimation : "none");
@@ -337,8 +337,8 @@
           },
           function step7() {
             draw("Detroit Midyear", chartWidth, chartHeight, colorsDetroit, nodes, links);
-            stepNodesSource = d3.selectAll(".node-source");
-            stepNodesTarget = d3.selectAll(".node-target");
+            stepNodesSource = d3.selectAll(".node-source-2");
+            stepNodesTarget = d3.selectAll(".node-target-2");
             stepLinks = d3.selectAll(".link");
             stepLinks.style("animation", drawAnimation);
             stepNodesSource.style("visibility","visible");
@@ -362,10 +362,10 @@
 
       } // end update graphic function
 
-      var graphicEl = d3.select('#graphic-container');
+      var graphicEl = d3.select('#graphic-container-2');
       var triggers = d3.selectAll('.trigger-2');
       var viewportHeight = window.innerHeight;
-      var graphic = updateGraphic('#graphic-container');
+      var graphic = updateGraphic('#graphic-container-2');
 
       gs.graphScroll()
         .container(graphicEl)

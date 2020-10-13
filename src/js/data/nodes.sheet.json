@@ -500,7 +500,7 @@
   {
     "name": "Hope of Detroit Academy - Elementary Fall 2015",
     "label": "Hope of Detroit Academy",
-    "display": "Hope of Detroit Academy",
+    "display": "Hope of Detroit <tspan x=\"66\" dy=\"1em\"> Academy </tspan>",
     "select": "Hope of Detroit Academy"
   },
   {
@@ -584,6 +584,12 @@
   {
     "name": "None Fall 2019",
     "label": "Not Teaching in Michigan",
+    "display": "",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "name": "Traditional Fall 2015",
+    "label": "Traditional",
     "display": "",
     "select": "Hope of Detroit Academy"
   },

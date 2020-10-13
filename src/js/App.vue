@@ -30,15 +30,15 @@
       </div>
     </div>
     <div class="text-container">
-      <p v-for="p in copy.text1">{{ p }}</p>
+      <p v-for="p in copy.text1" v-html="md(p)"></p>
     </div>
     <Graphic1 :copy=copy></Graphic1>
     <div class="text-container">
-      <p v-for="p in copy.text2">{{ p }}</p>
+      <p v-for="p in copy.text2" v-html="md(p)"></p>
     </div>
     <Graphic2 :copy=copy></Graphic2>
     <div class="text-container">
-      <p v-for="p in copy.text3">{{ p }}</p>
+      <p v-for="p in copy.text3" v-html="md(p)"></p>
     </div>
   </div>
 </template>

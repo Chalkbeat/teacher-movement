@@ -1137,7 +1137,7 @@
   },
   {
     "source": 0,
-    "target": 15,
+    "target": 16,
     "value": 1,
     "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
     "target_label": "Traditional Fall 2016",
@@ -1185,7 +1185,7 @@
   },
   {
     "source": 1,
-    "target": 16,
+    "target": 17,
     "value": 5,
     "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
     "target_label": "Traditional Fall 2017",
@@ -1233,7 +1233,7 @@
   },
   {
     "source": 2,
-    "target": 17,
+    "target": 18,
     "value": 2,
     "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
     "target_label": "Traditional Fall 2018",
@@ -1248,7 +1248,7 @@
     "select": "Hope of Detroit Academy"
   },
   {
-    "source": 16,
+    "source": 17,
     "target": 3,
     "value": 1,
     "source_label": "Traditional Fall 2017",
@@ -1289,7 +1289,7 @@
   },
   {
     "source": 3,
-    "target": 18,
+    "target": 19,
     "value": 1,
     "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
     "target_label": "Traditional Fall 2019",
