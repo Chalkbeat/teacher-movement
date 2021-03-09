@@ -2,8 +2,9 @@
 var d3 = require("d3");
 
 d3.sankey = function() {
+
   var sankey = {},
-      nodeWidth = 24,
+      nodeWidth = 20,
       nodePadding = 8,
       size = [1, 1],
       nodes = [],
@@ -12,8 +13,8 @@ d3.sankey = function() {
 
   var yScale = d3
     .scaleLinear()
-    .domain([2015, 2019])
-    .range([0, 400]);
+    .domain([2018, 2019])
+    .range([0, 100]);
 
   sankey.nodeWidth = function(_) {
     if (!arguments.length) return nodeWidth;
@@ -47,7 +48,7 @@ d3.sankey = function() {
 
   sankey.yScale = function(_) {
     if (!arguments.length) return yScale;
-    yScale = +_;
+    yScale = _;
     return sankey;
   };
 
@@ -67,13 +68,6 @@ d3.sankey = function() {
 
   sankey.link = function() {
     var curvature = .5;
-
-      // x0 = line start X
-      // y0 = line start Y
-      // x1 = line end X
-      // y1 = line end Y
-      // y2 = control point 1 (Y pos)
-      // y3 = control point 2 (Y pos)
 
     function link(d) {
 
@@ -211,17 +205,6 @@ d3.sankey = function() {
 
         // If the rightmost node goes outside the bounds, push it left.
         dy = x0 - nodePadding - nodeExtraPadding - size[0]; // was size[1]
-        if (dy > 0) {
-            x0 = node.x -= dy;
-
-            // Push any overlapping nodes left.
-            for (i = n - 2; i >= 0; --i) {
-                node = nodes[i];
-                dy = node.x + node.dy + nodePadding + nodeExtraPadding - x0; // was y0
-                if (dy > 0) node.x -= dy;
-                    x0 = node.x;
-                }
-            }
         });
     }
 
@@ -257,7 +240,7 @@ d3.sankey = function() {
             } else if (node.name.includes("EOY 2018")) {
               y = yScale(2017.5)
             } else if (node.name.includes("Fall 2018")) {
-              y = yScale(2018)
+              y = yScale(2018);
             } else if (node.name.includes("EOY 2019")) {
               y = yScale(2018.5)
             } else {
@@ -275,7 +258,7 @@ d3.sankey = function() {
           // ++y;
         }
 
-        scaleNodeBreadths((size[1] - nodeWidth) / (y - 1));
+        // scaleNodeBreadths((size[1] - nodeWidth) / (y - 1));
     }
 
   // .ty is the offset in terms of node position of the link (target)

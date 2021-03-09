@@ -1,0 +1,4248 @@
+[
+  {
+    "source": 20,
+    "target": 21,
+    "value": 2397,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 20,
+    "target": 16,
+    "value": 114,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 20,
+    "target": 11,
+    "value": 379,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 20,
+    "target": 6,
+    "value": 13,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 20,
+    "target": 1,
+    "value": 52,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 15,
+    "target": 21,
+    "value": 25,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 15,
+    "target": 1,
+    "value": 24,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 10,
+    "target": 21,
+    "value": 249,
+    "source_label": "None Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 378,
+    "source_label": "None Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 5,
+    "target": 21,
+    "value": 18,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 88,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 0,
+    "target": 21,
+    "value": 46,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 0,
+    "target": 16,
+    "value": 136,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 378,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 126,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 1267,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit"
+  },
+  {
+    "source": 21,
+    "target": 22,
+    "value": 2358,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 21,
+    "target": 17,
+    "value": 83,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 21,
+    "target": 12,
+    "value": 252,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 21,
+    "target": 7,
+    "value": 11,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 21,
+    "target": 2,
+    "value": 31,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 16,
+    "target": 22,
+    "value": 33,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 16,
+    "target": 2,
+    "value": 20,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 11,
+    "target": 22,
+    "value": 453,
+    "source_label": "None Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 11,
+    "target": 2,
+    "value": 370,
+    "source_label": "None Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 6,
+    "target": 22,
+    "value": 29,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 81,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 1,
+    "target": 22,
+    "value": 66,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 160,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 285,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 97,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 1201,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit"
+  },
+  {
+    "source": 22,
+    "target": 23,
+    "value": 2414,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 22,
+    "target": 18,
+    "value": 65,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 22,
+    "target": 13,
+    "value": 405,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 22,
+    "target": 8,
+    "value": 17,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 22,
+    "target": 3,
+    "value": 38,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 17,
+    "target": 23,
+    "value": 73,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 13,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 12,
+    "target": 23,
+    "value": 367,
+    "source_label": "None Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 413,
+    "source_label": "None Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 7,
+    "target": 23,
+    "value": 42,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 64,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 2,
+    "target": 23,
+    "value": 122,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 128,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 294,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 72,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 1085,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit"
+  },
+  {
+    "source": 23,
+    "target": 24,
+    "value": 2568,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 23,
+    "target": 19,
+    "value": 69,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 23,
+    "target": 14,
+    "value": 352,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 23,
+    "target": 9,
+    "value": 9,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 23,
+    "target": 4,
+    "value": 20,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 18,
+    "target": 24,
+    "value": 64,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 18,
+    "target": 4,
+    "value": 27,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 13,
+    "target": 24,
+    "value": 350,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 423,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 8,
+    "target": 24,
+    "value": 24,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 8,
+    "target": 4,
+    "value": 42,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 3,
+    "target": 24,
+    "value": 104,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 3,
+    "target": 19,
+    "value": 86,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 287,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 3,
+    "target": 9,
+    "value": 63,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 1070,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 4,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Old Redford Academy - High Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 8,
+    "source_label": "None Fall 2015",
+    "target_label": "Old Redford Academy - High Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 5,
+    "source_label": "Old Redford Academy - High Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 9,
+    "source_label": "Old Redford Academy - High Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 29,
+    "source_label": "Old Redford Academy - High Fall 2015",
+    "target_label": "Old Redford Academy - High Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 2,
+    "source_label": "Old Redford Academy - High Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 5,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Old Redford Academy - High Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 11,
+    "target": 2,
+    "value": 5,
+    "source_label": "None Fall 2016",
+    "target_label": "Old Redford Academy - High Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 3,
+    "source_label": "Old Redford Academy - High Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 5,
+    "source_label": "Old Redford Academy - High Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 26,
+    "source_label": "Old Redford Academy - High Fall 2016",
+    "target_label": "Old Redford Academy - High Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 7,
+    "source_label": "Old Redford Academy - High Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 4,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Old Redford Academy - High Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 12,
+    "source_label": "None Fall 2017",
+    "target_label": "Old Redford Academy - High Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 6,
+    "source_label": "Old Redford Academy - High Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 7,
+    "source_label": "Old Redford Academy - High Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 6,
+    "source_label": "Old Redford Academy - High Fall 2017",
+    "target_label": "Old Redford Academy - High Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 2,
+    "target": 17,
+    "value": 17,
+    "source_label": "Old Redford Academy - High Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 16,
+    "target": 3,
+    "value": 1,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Old Redford Academy - High Fall 2018",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 8,
+    "target": 4,
+    "value": 2,
+    "source_label": "Charter Fall 2018",
+    "target_label": "Old Redford Academy - High Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 4,
+    "source_label": "None Fall 2018",
+    "target_label": "Old Redford Academy - High Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 3,
+    "target": 9,
+    "value": 6,
+    "source_label": "Old Redford Academy - High Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 3,
+    "source_label": "Old Redford Academy - High Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 10,
+    "source_label": "Old Redford Academy - High Fall 2018",
+    "target_label": "Old Redford Academy - High Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 3,
+    "target": 18,
+    "value": 3,
+    "source_label": "Old Redford Academy - High Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 17,
+    "target": 4,
+    "value": 1,
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Old Redford Academy - High Fall 2019",
+    "select": "Old Redford Academy"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 2,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Voyageur College Prep Fall 2016",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 6,
+    "source_label": "None Fall 2015",
+    "target_label": "Voyageur College Prep Fall 2016",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 9,
+    "source_label": "Voyageur College Prep Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 12,
+    "source_label": "Voyageur College Prep Fall 2015",
+    "target_label": "Voyageur College Prep Fall 2016",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Voyageur College Prep Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 11,
+    "target": 2,
+    "value": 4,
+    "source_label": "None Fall 2016",
+    "target_label": "Voyageur College Prep Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 16,
+    "target": 2,
+    "value": 1,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "Voyageur College Prep Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 1,
+    "source_label": "Voyageur College Prep Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 4,
+    "source_label": "Voyageur College Prep Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 1,
+    "source_label": "Voyageur College Prep Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 14,
+    "source_label": "Voyageur College Prep Fall 2016",
+    "target_label": "Voyageur College Prep Fall 2017",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 3,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Voyageur College Prep Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 10,
+    "source_label": "None Fall 2017",
+    "target_label": "Voyageur College Prep Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 3,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Voyageur College Prep Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 3,
+    "source_label": "Voyageur College Prep Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 12,
+    "source_label": "Voyageur College Prep Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 4,
+    "source_label": "Voyageur College Prep Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 2,
+    "source_label": "Voyageur College Prep Fall 2017",
+    "target_label": "Voyageur College Prep Fall 2018",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 9,
+    "source_label": "None Fall 2018",
+    "target_label": "Voyageur College Prep Fall 2019",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 3,
+    "target": 9,
+    "value": 1,
+    "source_label": "Voyageur College Prep Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 5,
+    "source_label": "Voyageur College Prep Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 3,
+    "target": 19,
+    "value": 2,
+    "source_label": "Voyageur College Prep Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 10,
+    "source_label": "Voyageur College Prep Fall 2018",
+    "target_label": "Voyageur College Prep Fall 2019",
+    "select": "Voyageur College Prep"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 6,
+    "source_label": "Charter Fall 2015",
+    "target_label": "University Yes Academy Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 9,
+    "target": 1,
+    "value": 8,
+    "source_label": "None Fall 2015",
+    "target_label": "University Yes Academy Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 14,
+    "target": 1,
+    "value": 1,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "University Yes Academy Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 14,
+    "source_label": "University Yes Academy Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 0,
+    "target": 10,
+    "value": 12,
+    "source_label": "University Yes Academy Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 16,
+    "source_label": "University Yes Academy Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 5,
+    "source_label": "University Yes Academy Fall 2015",
+    "target_label": "University Yes Academy Fall 2016",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "University Yes Academy Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 10,
+    "target": 2,
+    "value": 8,
+    "source_label": "None Fall 2016",
+    "target_label": "University Yes Academy Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 15,
+    "target": 2,
+    "value": 1,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "University Yes Academy Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 6,
+    "source_label": "University Yes Academy Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 1,
+    "target": 11,
+    "value": 7,
+    "source_label": "University Yes Academy Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2,
+    "source_label": "University Yes Academy Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 5,
+    "source_label": "University Yes Academy Fall 2016",
+    "target_label": "University Yes Academy Fall 2017",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 2,
+    "source_label": "Charter Fall 2017",
+    "target_label": "University Yes Academy Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 11,
+    "target": 3,
+    "value": 5,
+    "source_label": "None Fall 2017",
+    "target_label": "University Yes Academy Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 5,
+    "source_label": "University Yes Academy Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 2,
+    "target": 12,
+    "value": 2,
+    "source_label": "University Yes Academy Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 2,
+    "target": 17,
+    "value": 3,
+    "source_label": "University Yes Academy Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 6,
+    "source_label": "University Yes Academy Fall 2017",
+    "target_label": "University Yes Academy Fall 2018",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 8,
+    "target": 4,
+    "value": 1,
+    "source_label": "Charter Fall 2018",
+    "target_label": "University Yes Academy Fall 2019",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 12,
+    "target": 4,
+    "value": 7,
+    "source_label": "None Fall 2018",
+    "target_label": "University Yes Academy Fall 2019",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 3,
+    "target": 13,
+    "value": 1,
+    "source_label": "University Yes Academy Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 3,
+    "target": 18,
+    "value": 6,
+    "source_label": "University Yes Academy Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 6,
+    "source_label": "University Yes Academy Fall 2018",
+    "target_label": "University Yes Academy Fall 2019",
+    "select": "University Yes Academy"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 4,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 9,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 15,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 7,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 0,
+    "target": 16,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 6,
+    "source_label": "None Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 16,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 3,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 5,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 11,
+    "target": 2,
+    "value": 6,
+    "source_label": "None Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 3,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 6,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 9,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 7,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 2,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 6,
+    "source_label": "None Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 1,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 8,
+    "target": 4,
+    "value": 3,
+    "source_label": "Charter Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 3,
+    "target": 9,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 14,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 3,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 3,
+    "target": 19,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 3,
+    "source_label": "None Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy"
+  },
+  {
+    "source": 0,
+    "target": 16,
+    "value": 1,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Nolan Elementary-Middle School Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 1,
+    "value": 3,
+    "source_label": "Nolan Elementary-Middle School Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 16,
+    "value": 11,
+    "source_label": "Nolan Elementary-Middle School Fall 2015",
+    "target_label": "Nolan Elementary-Middle School Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 6,
+    "value": 2,
+    "source_label": "Nolan Elementary-Middle School Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 11,
+    "value": 2,
+    "source_label": "Nolan Elementary-Middle School Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 5,
+    "target": 16,
+    "value": 3,
+    "source_label": "None Fall 2015",
+    "target_label": "Nolan Elementary-Middle School Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 10,
+    "target": 16,
+    "value": 5,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "Nolan Elementary-Middle School Fall 2016",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Nolan Elementary-Middle School Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 2,
+    "value": 7,
+    "source_label": "Nolan Elementary-Middle School Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 17,
+    "value": 11,
+    "source_label": "Nolan Elementary-Middle School Fall 2016",
+    "target_label": "Nolan Elementary-Middle School Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 12,
+    "value": 2,
+    "source_label": "Nolan Elementary-Middle School Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 6,
+    "target": 17,
+    "value": 6,
+    "source_label": "None Fall 2016",
+    "target_label": "Nolan Elementary-Middle School Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 11,
+    "target": 17,
+    "value": 5,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "Nolan Elementary-Middle School Fall 2017",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 3,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Nolan Elementary-Middle School Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 2,
+    "source_label": "Nolan Elementary-Middle School Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 18,
+    "value": 9,
+    "source_label": "Nolan Elementary-Middle School Fall 2017",
+    "target_label": "Nolan Elementary-Middle School Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 8,
+    "value": 10,
+    "source_label": "Nolan Elementary-Middle School Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 13,
+    "value": 3,
+    "source_label": "Nolan Elementary-Middle School Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 7,
+    "target": 18,
+    "value": 5,
+    "source_label": "None Fall 2017",
+    "target_label": "Nolan Elementary-Middle School Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 12,
+    "target": 18,
+    "value": 5,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Nolan Elementary-Middle School Fall 2018",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 3,
+    "target": 19,
+    "value": 3,
+    "source_label": "Charter Fall 2018",
+    "target_label": "Nolan Elementary-Middle School Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 18,
+    "target": 4,
+    "value": 1,
+    "source_label": "Nolan Elementary-Middle School Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 18,
+    "target": 19,
+    "value": 14,
+    "source_label": "Nolan Elementary-Middle School Fall 2018",
+    "target_label": "Nolan Elementary-Middle School Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 18,
+    "target": 9,
+    "value": 2,
+    "source_label": "Nolan Elementary-Middle School Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 18,
+    "target": 14,
+    "value": 5,
+    "source_label": "Nolan Elementary-Middle School Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 8,
+    "target": 19,
+    "value": 5,
+    "source_label": "None Fall 2018",
+    "target_label": "Nolan Elementary-Middle School Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 13,
+    "target": 19,
+    "value": 5,
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Nolan Elementary-Middle School Fall 2019",
+    "select": "Nolan Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 16,
+    "value": 7,
+    "source_label": "Central High School Fall 2015",
+    "target_label": "Central High School Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 15,
+    "target": 1,
+    "value": 1,
+    "source_label": "Central High School Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 15,
+    "target": 6,
+    "value": 7,
+    "source_label": "Central High School Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 15,
+    "target": 11,
+    "value": 5,
+    "source_label": "Central High School Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 0,
+    "target": 16,
+    "value": 1,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Central High School Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 5,
+    "target": 16,
+    "value": 10,
+    "source_label": "None Fall 2015",
+    "target_label": "Central High School Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 10,
+    "target": 16,
+    "value": 139,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "Central High School Fall 2016",
+    "select": "Central High School"
+  },
+  {
+    "source": 16,
+    "target": 17,
+    "value": 130,
+    "source_label": "Central High School Fall 2016",
+    "target_label": "Central High School Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 16,
+    "target": 2,
+    "value": 2,
+    "source_label": "Central High School Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 16,
+    "target": 7,
+    "value": 15,
+    "source_label": "Central High School Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 16,
+    "target": 12,
+    "value": 9,
+    "source_label": "Central High School Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 6,
+    "target": 17,
+    "value": 20,
+    "source_label": "None Fall 2016",
+    "target_label": "Central High School Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 11,
+    "target": 17,
+    "value": 10,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "Central High School Fall 2017",
+    "select": "Central High School"
+  },
+  {
+    "source": 17,
+    "target": 18,
+    "value": 123,
+    "source_label": "Central High School Fall 2017",
+    "target_label": "Central High School Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 1,
+    "source_label": "Central High School Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 17,
+    "target": 8,
+    "value": 20,
+    "source_label": "Central High School Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 17,
+    "target": 13,
+    "value": 16,
+    "source_label": "Central High School Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 4,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Central High School Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 7,
+    "target": 18,
+    "value": 14,
+    "source_label": "None Fall 2017",
+    "target_label": "Central High School Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 12,
+    "target": 18,
+    "value": 13,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Central High School Fall 2018",
+    "select": "Central High School"
+  },
+  {
+    "source": 18,
+    "target": 19,
+    "value": 130,
+    "source_label": "Central High School Fall 2018",
+    "target_label": "Central High School Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 18,
+    "target": 4,
+    "value": 2,
+    "source_label": "Central High School Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 18,
+    "target": 9,
+    "value": 11,
+    "source_label": "Central High School Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 18,
+    "target": 14,
+    "value": 11,
+    "source_label": "Central High School Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 3,
+    "target": 19,
+    "value": 2,
+    "source_label": "Charter Fall 2018",
+    "target_label": "Central High School Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 8,
+    "target": 19,
+    "value": 4,
+    "source_label": "None Fall 2018",
+    "target_label": "Central High School Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 13,
+    "target": 19,
+    "value": 10,
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Central High School Fall 2019",
+    "select": "Central High School"
+  },
+  {
+    "source": 12,
+    "target": 13,
+    "value": 8,
+    "source_label": "Gardner Elementary School Fall 2015",
+    "target_label": "Gardner Elementary School Fall 2016",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 5,
+    "source_label": "Gardner Elementary School Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 12,
+    "target": 8,
+    "value": 3,
+    "source_label": "Gardner Elementary School Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 2,
+    "source_label": "None Fall 2015",
+    "target_label": "Gardner Elementary School Fall 2016",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 7,
+    "target": 13,
+    "value": 3,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "Gardner Elementary School Fall 2016",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 0,
+    "target": 14,
+    "value": 1,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Gardner Elementary School Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 13,
+    "target": 14,
+    "value": 7,
+    "source_label": "Gardner Elementary School Fall 2016",
+    "target_label": "Gardner Elementary School Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 1,
+    "source_label": "Gardner Elementary School Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 13,
+    "target": 9,
+    "value": 5,
+    "source_label": "Gardner Elementary School Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 5,
+    "source_label": "None Fall 2016",
+    "target_label": "Gardner Elementary School Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 8,
+    "target": 14,
+    "value": 1,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "Gardner Elementary School Fall 2017",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 1,
+    "target": 15,
+    "value": 3,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Gardner Elementary School Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 14,
+    "target": 15,
+    "value": 8,
+    "source_label": "Gardner Elementary School Fall 2017",
+    "target_label": "Gardner Elementary School Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 14,
+    "target": 5,
+    "value": 1,
+    "source_label": "Gardner Elementary School Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 14,
+    "target": 10,
+    "value": 5,
+    "source_label": "Gardner Elementary School Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 4,
+    "target": 15,
+    "value": 2,
+    "source_label": "None Fall 2017",
+    "target_label": "Gardner Elementary School Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 9,
+    "target": 15,
+    "value": 2,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Gardner Elementary School Fall 2018",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 15,
+    "target": 16,
+    "value": 10,
+    "source_label": "Gardner Elementary School Fall 2018",
+    "target_label": "Gardner Elementary School Fall 2019",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 15,
+    "target": 6,
+    "value": 3,
+    "source_label": "Gardner Elementary School Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 15,
+    "target": 11,
+    "value": 2,
+    "source_label": "Gardner Elementary School Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 5,
+    "target": 16,
+    "value": 3,
+    "source_label": "None Fall 2018",
+    "target_label": "Gardner Elementary School Fall 2019",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 10,
+    "target": 16,
+    "value": 2,
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Gardner Elementary School Fall 2019",
+    "select": "Gardner Elementary School"
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 2,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 14,
+    "target": 1,
+    "value": 1,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 14,
+    "target": 15,
+    "value": 8,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2015",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 14,
+    "target": 5,
+    "value": 2,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 14,
+    "target": 10,
+    "value": 3,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 4,
+    "target": 15,
+    "value": 1,
+    "source_label": "None Fall 2015",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 9,
+    "target": 15,
+    "value": 1,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 1,
+    "target": 16,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 2,
+    "value": 1,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 16,
+    "value": 9,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 6,
+    "value": 1,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 15,
+    "target": 11,
+    "value": 1,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 5,
+    "target": 16,
+    "value": 4,
+    "source_label": "None Fall 2016",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 10,
+    "target": 16,
+    "value": 1,
+    "source_label": "Traditional Fall 2016",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 2,
+    "target": 17,
+    "value": 3,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 3,
+    "value": 1,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 17,
+    "value": 6,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 7,
+    "value": 4,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 16,
+    "target": 12,
+    "value": 5,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 6,
+    "target": 17,
+    "value": 4,
+    "source_label": "None Fall 2017",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 11,
+    "target": 17,
+    "value": 3,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 18,
+    "value": 12,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2019",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 8,
+    "value": 2,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 17,
+    "target": 13,
+    "value": 2,
+    "source_label": "Mark Twain Elementary-Middle School Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 7,
+    "target": 18,
+    "value": 3,
+    "source_label": "None Fall 2018",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2019",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 12,
+    "target": 18,
+    "value": 2,
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Mark Twain Elementary-Middle School Fall 2019",
+    "select": "Mark Twain Elementary-Middle School"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 1267,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 7,
+    "value": 98,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 13,
+    "value": 212,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 25,
+    "value": 36,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 19,
+    "value": 103,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 6,
+    "target": 1,
+    "value": 73,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 6,
+    "target": 25,
+    "value": 13,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 12,
+    "target": 1,
+    "value": 265,
+    "source_label": "None Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 12,
+    "target": 25,
+    "value": 161,
+    "source_label": "None Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 24,
+    "target": 1,
+    "value": 44,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 24,
+    "target": 7,
+    "value": 8,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 24,
+    "target": 13,
+    "value": 123,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 24,
+    "target": 25,
+    "value": 2397,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 24,
+    "target": 19,
+    "value": 87,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 18,
+    "target": 1,
+    "value": 19,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 18,
+    "target": 25,
+    "value": 22,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 1201,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 8,
+    "value": 82,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 14,
+    "value": 86,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 26,
+    "value": 54,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 20,
+    "value": 129,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 2,
+    "value": 66,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 26,
+    "value": 27,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 13,
+    "target": 2,
+    "value": 283,
+    "source_label": "None Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 13,
+    "target": 26,
+    "value": 386,
+    "source_label": "None Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 25,
+    "target": 2,
+    "value": 25,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 25,
+    "target": 8,
+    "value": 8,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 25,
+    "target": 14,
+    "value": 152,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 25,
+    "target": 26,
+    "value": 2358,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 25,
+    "target": 20,
+    "value": 66,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 19,
+    "target": 2,
+    "value": 14,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 19,
+    "target": 26,
+    "value": 28,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 1085,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 9,
+    "value": 61,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 15,
+    "value": 150,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 27,
+    "value": 106,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 21,
+    "value": 100,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 8,
+    "target": 3,
+    "value": 54,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 8,
+    "target": 27,
+    "value": 32,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 3,
+    "value": 303,
+    "source_label": "None Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 27,
+    "value": 289,
+    "source_label": "None Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 26,
+    "target": 3,
+    "value": 12,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 26,
+    "target": 9,
+    "value": 0,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 26,
+    "target": 15,
+    "value": 168,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 26,
+    "target": 27,
+    "value": 2414,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 26,
+    "target": 21,
+    "value": 37,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 20,
+    "target": 3,
+    "value": 12,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 20,
+    "target": 27,
+    "value": 64,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 1070,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 10,
+    "value": 51,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 16,
+    "value": 127,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 28,
+    "value": 93,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 22,
+    "value": 57,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 4,
+    "value": 35,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 28,
+    "value": 22,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 15,
+    "target": 4,
+    "value": 271,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 15,
+    "target": 28,
+    "value": 259,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 27,
+    "target": 4,
+    "value": 15,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 27,
+    "target": 10,
+    "value": 8,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 27,
+    "target": 16,
+    "value": 149,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 27,
+    "target": 28,
+    "value": 2568,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 27,
+    "target": 22,
+    "value": 50,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 21,
+    "target": 4,
+    "value": 17,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 21,
+    "target": 28,
+    "value": 51,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 7,
+    "value": 28,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 13,
+    "value": 166,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 25,
+    "value": 10,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 19,
+    "value": 33,
+    "source_label": "Charter Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 6,
+    "target": 1,
+    "value": 15,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 6,
+    "target": 25,
+    "value": 5,
+    "source_label": "Charter Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 12,
+    "target": 1,
+    "value": 113,
+    "source_label": "None Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 12,
+    "target": 25,
+    "value": 88,
+    "source_label": "None Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 24,
+    "target": 1,
+    "value": 8,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 24,
+    "target": 7,
+    "value": 5,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Charter Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 24,
+    "target": 13,
+    "value": 256,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 24,
+    "target": 19,
+    "value": 27,
+    "source_label": "Traditional Detroit Fall 2015",
+    "target_label": "Traditional Non-Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 18,
+    "target": 1,
+    "value": 5,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Charter Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 18,
+    "target": 25,
+    "value": 3,
+    "source_label": "Traditional Non-Detroit Fall 2015",
+    "target_label": "Traditional Detroit Fall 2016",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 1,
+    "target": 8,
+    "value": 15,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 1,
+    "target": 14,
+    "value": 199,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 1,
+    "target": 26,
+    "value": 12,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 1,
+    "target": 20,
+    "value": 31,
+    "source_label": "Charter Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 7,
+    "target": 2,
+    "value": 15,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 7,
+    "target": 26,
+    "value": 2,
+    "source_label": "Charter Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 13,
+    "target": 2,
+    "value": 87,
+    "source_label": "None Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 13,
+    "target": 26,
+    "value": 67,
+    "source_label": "None Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 25,
+    "target": 2,
+    "value": 6,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 25,
+    "target": 8,
+    "value": 3,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Charter Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 25,
+    "target": 14,
+    "value": 100,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 25,
+    "target": 20,
+    "value": 17,
+    "source_label": "Traditional Detroit Fall 2016",
+    "target_label": "Traditional Non-Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 19,
+    "target": 2,
+    "value": 6,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Charter Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 19,
+    "target": 26,
+    "value": 5,
+    "source_label": "Traditional Non-Detroit Fall 2016",
+    "target_label": "Traditional Detroit Fall 2017",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 9,
+    "value": 11,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 15,
+    "value": 144,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 27,
+    "value": 16,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 21,
+    "value": 28,
+    "source_label": "Charter Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 8,
+    "target": 3,
+    "value": 10,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 8,
+    "target": 27,
+    "value": 10,
+    "source_label": "Charter Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 3,
+    "value": 110,
+    "source_label": "None Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 27,
+    "value": 78,
+    "source_label": "None Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 26,
+    "target": 3,
+    "value": 26,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 26,
+    "target": 9,
+    "value": 17,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Charter Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 26,
+    "target": 15,
+    "value": 237,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 26,
+    "target": 21,
+    "value": 28,
+    "source_label": "Traditional Detroit Fall 2017",
+    "target_label": "Traditional Non-Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 20,
+    "target": 3,
+    "value": 1,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Charter Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 20,
+    "target": 27,
+    "value": 9,
+    "source_label": "Traditional Non-Detroit Fall 2017",
+    "target_label": "Traditional Detroit Fall 2018",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 10,
+    "value": 12,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 16,
+    "value": 160,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 28,
+    "value": 11,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 22,
+    "value": 29,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 9,
+    "target": 4,
+    "value": 7,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 9,
+    "target": 28,
+    "value": 2,
+    "source_label": "Charter Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 15,
+    "target": 4,
+    "value": 152,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 15,
+    "target": 28,
+    "value": 91,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 27,
+    "target": 4,
+    "value": 5,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 27,
+    "target": 10,
+    "value": 1,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 27,
+    "target": 16,
+    "value": 203,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 27,
+    "target": 22,
+    "value": 19,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Non-Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 21,
+    "target": 4,
+    "value": 10,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Charter Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 21,
+    "target": 28,
+    "value": 13,
+    "source_label": "Traditional Non-Detroit Fall 2018",
+    "target_label": "Traditional Detroit Fall 2019",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 11,
+    "value": 7,
+    "source_label": "Charter Detroit Fall 2019",
+    "target_label": "Charter Non-Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 17,
+    "value": 120,
+    "source_label": "Charter Detroit Fall 2019",
+    "target_label": "None Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 29,
+    "value": 6,
+    "source_label": "Charter Detroit Fall 2019",
+    "target_label": "Traditional Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 23,
+    "value": 21,
+    "source_label": "Charter Detroit Fall 2019",
+    "target_label": "Traditional Non-Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 10,
+    "target": 5,
+    "value": 7,
+    "source_label": "Charter Non-Detroit Fall 2019",
+    "target_label": "Charter Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 10,
+    "target": 29,
+    "value": 2,
+    "source_label": "Charter Non-Detroit Fall 2019",
+    "target_label": "Traditional Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 16,
+    "target": 5,
+    "value": 112,
+    "source_label": "None Fall 2019",
+    "target_label": "Charter Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 16,
+    "target": 29,
+    "value": 91,
+    "source_label": "None Fall 2019",
+    "target_label": "Traditional Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 28,
+    "target": 5,
+    "value": 3,
+    "source_label": "Traditional Detroit Fall 2019",
+    "target_label": "Charter Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 28,
+    "target": 11,
+    "value": 2,
+    "source_label": "Traditional Detroit Fall 2019",
+    "target_label": "Charter Non-Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 28,
+    "target": 17,
+    "value": 97,
+    "source_label": "Traditional Detroit Fall 2019",
+    "target_label": "None Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 28,
+    "target": 23,
+    "value": 18,
+    "source_label": "Traditional Detroit Fall 2019",
+    "target_label": "Traditional Non-Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 22,
+    "target": 5,
+    "value": 3,
+    "source_label": "Traditional Non-Detroit Fall 2019",
+    "target_label": "Charter Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 22,
+    "target": 29,
+    "value": 8,
+    "source_label": "Traditional Non-Detroit Fall 2019",
+    "target_label": "Traditional Detroit Fall 2020",
+    "select": "Detroit Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 3,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 9,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Charter Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 15,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 6,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 16,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "Traditional Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 5,
+    "source_label": "None Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 0,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 7,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Charter Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 2,
+    "value": 16,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 2,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 1,
+    "target": 17,
+    "value": 5,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "Traditional Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 11,
+    "target": 2,
+    "value": 6,
+    "source_label": "None Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 2,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 3,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 3,
+    "value": 9,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 6,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 2,
+    "source_label": "None Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 17,
+    "target": 3,
+    "value": 1,
+    "source_label": "Traditional Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 8,
+    "target": 4,
+    "value": 4,
+    "source_label": "Charter Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 4,
+    "value": 17,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 0,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 13,
+    "target": 4,
+    "value": 4,
+    "source_label": "None Fall 2018",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 5,
+    "target": 1,
+    "value": 1,
+    "source_label": "Charter Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2015",
+    "target_label": "None Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 10,
+    "target": 1,
+    "value": 1,
+    "source_label": "None Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 15,
+    "target": 1,
+    "value": 1,
+    "source_label": "Traditional Fall 2015",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 6,
+    "target": 2,
+    "value": 2,
+    "source_label": "Charter Fall 2016",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 1,
+    "target": 12,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2016",
+    "target_label": "None Fall 2017",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 1,
+    "source_label": "Charter Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 8,
+    "value": 3,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 13,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "None Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 2,
+    "target": 18,
+    "value": 1,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 12,
+    "target": 3,
+    "value": 4,
+    "source_label": "None Fall 2017",
+    "target_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 9,
+    "value": 17,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 3,
+    "target": 14,
+    "value": 2,
+    "source_label": "Hope of Detroit Academy - Elementary Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Hope of Detroit Academy Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 88.41,
+    "source_label": "Grosse Pointe Park Stayed",
+    "target_label": "Grosse Pointe Park Stayed",
+    "select": "Grosse Pointe Park"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 11.59,
+    "source_label": "Grosse Pointe Park Stayed",
+    "target_label": "Grosse Pointe Park Moved",
+    "select": "Grosse Pointe Park"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 85.63,
+    "source_label": "Royal Oak Stayed",
+    "target_label": "Royal Oak Stayed",
+    "select": "Royal Oak"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 14.38,
+    "source_label": "Royal Oak Stayed",
+    "target_label": "Royal Oak Moved",
+    "select": "Royal Oak"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 94.89,
+    "source_label": "Saint Joseph Stayed",
+    "target_label": "Saint Joseph Stayed",
+    "select": "Saint Joseph"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 5.11,
+    "source_label": "Saint Joseph Stayed",
+    "target_label": "Saint Joseph Moved",
+    "select": "Saint Joseph"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 71.88,
+    "source_label": "Flint Stayed",
+    "target_label": "Flint Stayed",
+    "select": "Flint"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 28.13,
+    "source_label": "Flint Stayed",
+    "target_label": "Flint Moved",
+    "select": "Flint"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 76.8,
+    "source_label": "Battle Creek Stayed",
+    "target_label": "Battle Creek Stayed",
+    "select": "Battle Creek"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 23.2,
+    "source_label": "Battle Creek Stayed",
+    "target_label": "Battle Creek Moved",
+    "select": "Battle Creek"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 70.72,
+    "source_label": "Benton Harbor Stayed",
+    "target_label": "Benton Harbor Stayed",
+    "select": "Benton Harbor"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 29.28,
+    "source_label": "Benton Harbor Stayed",
+    "target_label": "Benton Harbor Moved",
+    "select": "Benton Harbor"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 70.41,
+    "source_label": "Detroit Overall Stayed",
+    "target_label": "Detroit Overall Stayed",
+    "select": "Detroit Overall"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 29.59,
+    "source_label": "Detroit Overall Stayed",
+    "target_label": "Detroit Overall Moved",
+    "select": "Detroit Overall"
+  },
+  {
+    "source": 0,
+    "target": 1,
+    "value": 83,
+    "source_label": "Statewide Overall Stayed Fall 2018",
+    "target_label": "Statewide Overall Stayed Fall 2019",
+    "select": "Statewide"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 17,
+    "source_label": "Statewide Overall Stayed Fall 2018",
+    "target_label": "Statewide Overall Moved Fall 2019",
+    "select": "Statewide"
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 110,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 960,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Same Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 63,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 8,
+    "value": 287,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 12,
+    "value": 95,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 9,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Same Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 86,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 4,
+    "target": 3,
+    "value": 42,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 4,
+    "target": 12,
+    "value": 24,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 423,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 12,
+    "value": 350,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 3,
+    "value": 20,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 6,
+    "value": 9,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 8,
+    "value": 352,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 12,
+    "value": 334,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 15,
+    "value": 2234,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Same Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 11,
+    "value": 69,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 3,
+    "value": 27,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 12,
+    "value": 64,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 3,
+    "value": 110,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 2,
+    "value": 960,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Detroit Same Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 51,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 8,
+    "value": 127,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 12,
+    "value": 84,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 15,
+    "value": 9,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Same Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 57,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 4,
+    "target": 3,
+    "value": 35,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 4,
+    "target": 12,
+    "value": 22,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 271,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 7,
+    "target": 12,
+    "value": 259,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 3,
+    "value": 15,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 6,
+    "value": 8,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 8,
+    "value": 149,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 12,
+    "value": 334,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 15,
+    "value": 2234,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Detroit Same Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 14,
+    "target": 11,
+    "value": 50,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 3,
+    "value": 17,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 9,
+    "target": 12,
+    "value": 51,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "year"
+  },
+  {
+    "source": 0,
+    "target": 6,
+    "value": 12,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 8,
+    "value": 160,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 12,
+    "value": 11,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 0,
+    "target": 11,
+    "value": 29,
+    "source_label": "Charter Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 3,
+    "value": 7,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 4,
+    "target": 12,
+    "value": 2,
+    "source_label": "Charter Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 7,
+    "target": 3,
+    "value": 152,
+    "source_label": "None Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 7,
+    "target": 12,
+    "value": 91,
+    "source_label": "None Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 3,
+    "value": 5,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 6,
+    "value": 1,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Charter Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 8,
+    "value": 203,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "None Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 14,
+    "target": 11,
+    "value": 19,
+    "source_label": "Traditional Detroit Fall 2018",
+    "target_label": "Traditional Outside Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 9,
+    "target": 3,
+    "value": 10,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Charter Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  },
+  {
+    "source": 9,
+    "target": 12,
+    "value": 13,
+    "source_label": "Traditional Outside Fall 2018",
+    "target_label": "Traditional Detroit Different Fall 2019",
+    "select": "Detroit School General Midyear",
+    "midyear": "midyear"
+  }
+]
