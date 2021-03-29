@@ -3,14 +3,14 @@ var classify = require("./lib/classify.js");
 var COLORS = require("./lib/colors.js");
 var tooltip = d3.select("#tooltip");
 
-var margins = { top: 60, right: 10, bottom: 10, left: 10 };
-
 var colors = function(label) {
   if (label.includes("Moved")) { return COLORS.blue1; }
+  else if (label.includes("Charter")) { return COLORS.purple2; }
+  else if (label.includes("Traditional")) { return COLORS.teal2; }
   else { return COLORS.blue3; }
 }
 
-function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, nodes, links, container, number) {
+function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, nodes, links, container, margins, number) {
 
   var yScale = d3
     .scaleLinear()
@@ -35,6 +35,17 @@ function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, node
 
   var path = sankeyLayout.link();
 
+  // var nodeLabel = container
+  //   .selectAll(".display-label")
+  //   .data([0]).join(
+  //   enter => enter.append("div")
+  //     .attr("class", "display-label")
+  //     .style("width", drawWidth-margins.right+"px")
+  //     .html(school.replace("_General", "").replaceAll("_", " ")),
+  //   update => update
+  //     .html(school.replace("_General", "").replaceAll("_", " "))
+  // );
+
   var chartWrapper = container
     .selectAll(".graphic-wrapper")
     .data([0]).join(
@@ -56,7 +67,6 @@ function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, node
         .attr("transform", "translate(" + margins.left + "," + margins.top + ")")
   );
 
-
   var links = chartElement
     .selectAll(".link")
     .data(data.links).join(
@@ -64,15 +74,15 @@ function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, node
         .attr("class", d => "link link-"+number+" source-" + classify(d.source.label) + " target-" + classify(d.target.label))
         .attr("d", path)
         .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-        .style("stroke", d => colors(d.source.label))
+        .style("stroke", d => school.includes("Teachers") ? colors(d.source_label) : COLORS.blue3)
         .style("fill", "none")
-        .style("opacity", 0.3),
+        .style("opacity", d => d.target_label.includes("Moved") ? 0.6 : 0.15),
       update => update
         .transition()
         .attr("class", d => "link link-"+number+" source-" + classify(d.source.label) + " target-" + classify(d.target.label))
         .attr("d", path)
         .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-        .style("stroke", d => colors(d.source.label))
+        .style("stroke", d => school.includes("Teachers") ? colors(d.source_label) : COLORS.blue3)
   );
 
   var sourceNodes = chartElement
@@ -111,27 +121,13 @@ function drawSankey(school, drawWidth, drawHeight, chartWidth, chartHeight, node
         .style("fill", d => colors(d.label))
   );
 
-  chartElement.append("text")
+  chartElement.selectAll(".percent-label")
+    .data([0]).enter().append("text")
     .attr("class", "percent-label")
-    .attr("x", data.nodes[1].dt/2)
-    .attr("y", chartHeight - sankeyLayout.nodeWidth())
-    .html(Math.round(data.nodes[1].targetLinks[0].percent) + "%")
+    .attr("x", data.nodes[1].dt + data.nodes[2].dt/2 + 8)
+    .attr("y", chartHeight + sankeyLayout.nodeWidth()*3 + 4)
+    .html(Math.round(data.nodes[2].targetLinks[0].percent) + "%")
     .style("text-anchor", "middle");
-
-  var nodeLabel = chartElement
-    .selectAll(".display-label")
-    .data([0]).join(
-    enter => enter.append("text")
-      .attr("class", "display-label")
-      .attr("x", 0)
-      .attr("y", -16)
-      .style("fill", COLORS.gray1)
-      .style("text-anchor","start")
-      .html(school.replace("_General", "").replaceAll("_", " ")),
-    update => update
-      .attr("x", 0)
-      .html(school.replace("_General", "").replaceAll("_", " "))
-  );
 
 }
 

@@ -243,8 +243,12 @@ d3.sankey = function() {
               y = yScale(2018);
             } else if (node.name.includes("EOY 2019")) {
               y = yScale(2018.5)
+            } else if (node.name.includes("Fall 2019")) {
+              y = yScale(2019);
+            } else if (node.name.includes("EOY 2020")) {
+              y = yScale(2019.5)
             } else {
-              y = yScale(2019)
+              y = yScale(2020)
             }
             node.y = y;
             // node.dx = nodeWidth;

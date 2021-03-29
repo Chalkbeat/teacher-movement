@@ -1,189 +1,146 @@
-headline: There’s a fierce battle for teachers in Detroit - and students are losing
+headline: High teacher turnover is hurting Michigan's most vulnerable students
 subhed: 
 
 byline: By [Koby Levin](https://www.chalkbeat.org/authors/koby-levin) and [Gabrielle LaMarr LeMee](https://www.chalkbeat.org/authors/gabrielle-lamarr-lemee)
 
 credit: 
 [+text1]
-Idriss Saleh hasn’t forgotten his freshman year teachers at Universal Academy, but he doesn’t know if they remember him.
-By the time his senior year began this fall, none of the seven teachers who helped him kick off what he views as “the most important four years” of his life were still at the school.
-“They didn’t stick with us,” Saleh said. “ I don’t know why.”
-In four years at Universal Academy, a K-12 charter school in Detroit, Saleh got used to seeing a lot of new faces at the front of the classroom. Teacher turnover exceeded 50% in each of his first three years. Just 7 of the 31 educators who worked at the upper school when he was a freshman were still there by the end of his junior year. Teachers often left in the middle of the year and were replaced by long-term substitutes.
-Dozens more schools in Detroit — and many more in low-income communities statewide — are contending with troublingly high rates of teacher turnover. Frequent disruptions at the front of the classroom, driven by low pay and poor working conditions, take a steep toll on student learning, research shows. This burden falls almost exclusively on Michigan’s most vulnerable students.
-[]
-[+graphic1]
-step1: Consider Universal Academy, where XX% of students are economically disadvantaged. In the fall of 2015, the school employed 32 teachers.
-
-step2: Four years later, only five of the original teachers remained. During that time, the annual teacher turnover rate ranged from 33% to 63%. By comparison, 18% of Michigan teachers change schools or leave the profession in a typical year.
-
-step3: Where are those teachers going? Some are going to other charter schools.
-
-step4: Some are going to traditional schools.
-
-step5: Some retire or decide to no longer teach in Michigan. 
-
-step6: Making matters worse, XX teachers left in the middle of the year during the same period. Research in North Carolina suggests that midyear teacher turnover is [especially detrimental to student learning](https://www.chalkbeat.org/2018/10/23/21105948/new-research-shows-just-how-much-losing-a-teacher-midyear-hurts-students).
-[]
-[+text2]
-Saleh managed to keep his grades up, maintaining a 3.9 GPA. But as he prepares to submit college applications, he wonders if the revolving cast of teachers at Universal Academy prepared him for higher learning.
+Idriss Saleh hasn’t forgotten his freshman year teachers at Universal Academy, but he’s not sure they remember him.
+By the time his senior year began this fall, he had outlasted all seven of those teachers. Saleh worked hard to maintain a 3.9 GPA and applied to an ambitious list of colleges. But he worries that he isn’t ready for college coursework, thanks in part to an unrelenting drumbeat of teachers leaving his school.
 “Even though I worked hard to get to where I am, I feel like I'm still at a disadvantage entering college,” he said.
-Through a spokesman, Universal Academy said its turnover rate between last year and the current school was only 8%, and said that number should speak for itself. (That data is not yet publicly available.)
-But with experts predicting a spike in teacher departures after the pandemic, teacher churn is not going away.
-Consider: 181,000 Michigan students attended a school with teacher turnover of 30% or more in 2017-2018. That means 12% of students in the state attend schools with very high rates of churn at the front of the classroom.
-Almost all of them are among the students who most benefit from stability at school.
-Seventy-one percent of students in high turnover schools were economically disadvantaged. Black students, who made up just 18% of statewide enrollment, accounted for 45% of students in schools where teachers were least likely to stick around.
+Decades of [research](https://www.sciencedirect.com/science/article/pii/S027277571530087X) [back up](https://journals.sagepub.com/doi/abs/10.3102/0002831212463813) his concern. Frequent turnover at the front of the classroom takes a steep toll on student learning, especially in low-income communities where students most need stable schools.
+The problem is especially profound in Michigan. Amid [stagnant](https://education.msu.edu/ed-policy-phd/pdf/Michigan-School-Finance-at-the-Crossroads-A-Quarter-Center-of-State-Control.pdf) school funding and growing [disillusionment](https://www.launchmichigan.org/wp-content/uploads/2019/03/Launch-MI-Full-Report-2019-FINAL.pdf) among teachers, more than 1 in 6 left for another school or left the classroom entirely in the 2018-19 school year, a higher rate than the most recent available [national average](https://www.epi.org/publication/u-s-schools-struggle-to-hire-and-retain-teachers-the-second-report-in-the-perfect-storm-in-the-teacher-labor-market-series/). This isn’t for lack of well-documented [solutions](https://www.chalkbeat.org/e/22117177): Better training and mentorship, stronger principals, and higher pay are just some of the policies that have been shown to increase teacher retention.
+A Chalkbeat [analysis](https://www.chalkbeat.org/e/22118136) of more than one million rows of teacher workforce data sheds new light on the extent of the teacher movement in Michigan, how many students are affected, and the toll borne by students of color and students from low-income families.
+In schools with a teacher turnover rate of 30% or more, nearly three quarters of the students were from low-income families in 2018-19, the analysis found. Black students accounted for [18%](https://www.documentcloud.org/documents/20521248-mischooldata-snapshot-2018-19-student-count-race) of statewide enrollment but 45% of enrollment in the schools where teachers were most likely to leave.
 []
 [+graphic2]
-step1: Detroit has a lower teacher retention than the statewide average.
+step1: The schools that lose the most teachers are largely in Michigan’s [cities](https://www.documentcloud.org/documents/20521223-michigan_teacher_geography_mobility_white_paper_639846_7#document/p8/a2025041), where hundreds of traditional and charter public schools have rates of turnover that exceed 30%, according to Chalkbeat’s analysis of a state turnover database.
 
-step2: Other similar cities across the state also struggle with teacher retention.
+step2: Charter schools, which are largely based in cities and enroll mostly students of color, have especially high turnover rates overall. 
 
-step3: Especially when compared to wealthier suburbs that are able to retain a much higher percentage of their teachers. 
+step3: Wealthier suburbs, by contrast, are often able to retain a much higher percentage of their teachers. 
+
 []
 [+text3]
-Those students likely paid a steep — and preventable — price for the inconsistency at the front of the classroom, according to decades of [research](http://journals.sagepub.com/doi/abs/10.3102/0002831212463813) on [teacher turnover](https://www.sciencedirect.com/science/article/pii/S027277571530087X).
-“If you don’t address the turnover problem, nothing else is going to work,” said Ed Fuller, an education professor at Penn State University who helped design a teacher retention policy in Austin, Tx. “It’s just not possible to have a functioning school with” very high levels of turnover.
-High teacher turnover has been linked to lower student performance in several studies. The damage is most severe when teachers leave mid-year, a phenomenon that is all too common in Detroit, a Chalkbeat analysis found.
-Some turnover is to be expected in any workplace and is likely beneficial, but numerous studies show that teacher turnover is different because of the costs it imposes on students. When teachers leave — whether it’s for another school or another profession — they take their knowledge of the school community with them. They interrupt classroom routines and sever relationships with students, parents, and colleagues that are the essential “[connective tissue](https://www.documentcloud.org/documents/7275360-ELED-RelationalTrustInSchools-1115.html)” that makes schools run.
-“That instability, it breaks communities,” said Darrin Camilleri, a Demoratic state representative who began his career teaching social studies at a high-turnover charter school in Detroit. “One of the joys of Michigan’s education history was that so many people had teachers who stayed in the classroom for 30 or 35 years. They taught their students’ parents. You still see that in some schools, but you’re losing that sense of community in so many other schools.”
-“And community is a huge part of how you support students.”
+All told, 1 in 10 Michigan students attended schools with turnover rates above 30% in 2018-19.
+“It’s tragic,” said Regina Weiss, a Democratic state representative from Oak Park. “It’s not acceptable.”
+Weiss left her job as a social studies teacher in Detroit after her election last fall.
+“When I left in December the comments I would hear from the kids were, ‘All the teachers are leaving,’” she said. “That’s their perspective. It’s almost like a sense of abandonment.”
+[]
+header1: Why do they leave?
+[+text4]
+Teaching is a public service profession with a reputation for hard work and long hours — a profession [most Americans](https://pdkpoll.org/wp-content/uploads/2020/05/pdkpoll50_2018.pdf) wouldn’t want for their children. Teachers typically don’t abandon their classrooms on a whim.
+Pay dissatisfaction is perhaps the [single](https://www.documentcloud.org/documents/20498415-pdkpoll51-2019#document/p7/a2023842) most common reason teachers leave their jobs. National polls show that teachers feel they’re underpaid, and a strong majority of Americans — more than at any point since 2008 — believe [they need a raise](https://www.documentcloud.org/documents/20519820-poll52-2020_pollsupplement#document/p6/a2023845).
+“From our perspective there are a number of things that can be done about teacher turnover, but a core way is to pay teachers what they deserve to be paid,” said David Hecker, president of the American Federation of Teachers Michigan.
+In general, American teachers are paid [significantly less](https://twitter.com/matt_barnum/status/1349723632155709440) than other professionals with a bachelor’s degree. Michigan teacher pay is [slightly above the national average](https://learningpolicyinstitute.org/product/understanding-teacher-shortages-interactive), though it tends to be lower in low-income communities, where many teachers leave for schools with better pay and more resources.
+A widening pay gap between charter and district-run schools in Detroit has pushed many teachers to leave city charter schools for the local district, where starting teacher salaries are now among the [highest](https://detroit.chalkbeat.org/2020/5/21/21267095/as-the-detroit-district-recruits-new-teachers-they-hope-a-boost-starting-pay-will-entice-candidates) in the region. In 2018-19, 6% of charter school teachers left for the district, compared with 1% of district teachers who left for charters.
+[]
+[+text5]
+Lamar Phillips is a band teacher in Detroit with a master’s degree who devotes long hours to his students. He left his last job, at Detroit Merit Charter Academy, because he didn’t feel his pay measured up to the hours he put in. He was also disillusioned, he said, because the school wasn’t providing enough funding for the band program or giving it a favorable slot on the school schedule.
+He chose to move to the Detroit Public Schools Community District, which has [increased](https://detroit.chalkbeat.org/2020/5/21/21267095/as-the-detroit-district-recruits-new-teachers-they-hope-a-boost-starting-pay-will-entice-candidates) teacher salaries in recent years.
+“You’re talking about four, five, six, seven thousand dollars more, and there’s a union,” Phillips said.
+Low pay, however, is far from the only reason teachers leave their classrooms. 
+Hecker pointed out that a [lack of adequate school funding](https://www.documentcloud.org/documents/6770487-Michigan-School-Finance-at-the-Crossroads-a.html#document/p5/a586552) affects teachers in ways that aren’t captured in their paychecks. When schools have less money to spend on classroom aides and social workers, teachers get less help. Those issues were central to a national wave of teacher strikes in 2018.
+Teachers’ working conditions are also crucial to their sense of success, which plays a big role in whether they leave classrooms or leave the profession altogether, [studies](https://journals.sagepub.com/doi/10.3102/00028312040003581) have shown. Training quality, job security, and the condition of learning materials and school buildings all play key roles. In Detroit charter schools, school closures contribute to instability in the teaching workforce. Of the 538 teachers who left those schools in 2018-19, 50 did so because their schools closed.
+Support from principals is a particularly important factor in teachers’ decisions to stay or go, [numerous](https://fordhaminstitute.org/national/commentary/how-principal-effectiveness-affects-teacher-turnover) [studies](https://cepa.stanford.edu/content/influence-school-administrators-teacher-retention-decisions) [show](https://eric.ed.gov/?id=EJ951114).
 []
 [+graphic3]
-Turnover across Detroit — like other cities with high poverty and jobless rates — is also troublingly high.
+step1: In Michigan, 76% of charter school teachers and 88% of traditional school teachers taught at the same school in fall 2018 and fall 2019.
 
-And disruptive midyear departures are also troublingly common, with XX teachers leaving midyear during that time.
-[]
-header1: A systemic problem
-[+text4]
-Teachers leave their jobs for many reasons, which researchers often describe using the umbrella term “working conditions.” These conditions include pay, the amount of training teachers get, their principal, their sense of job security, and the condition of school buildings and learning materials. A recent study found that the single greatest predictor of teacher turnover is whether educators feel they are successful in their jobs.
-Camilleri blames turnover at his former school on a lack of support for teachers. His students at Voyageur College Prep were among the state’s most vulnerable — more than 80% were economically disadvantaged. Yet he sometimes felt powerless to meet their needs.
-“We oftentimes didn’t have the resources to support our students,” he said. “We did not have enough counselors, we did not have enough social workers.”
-Poor working conditions lead to turnover, which often leads to more turnover in a vicious cycle that is one of the “driving issues” behind the travails of the state’s lowest performing schools, said Katharine Strunk, a researcher at Michigan State University who co-authored a new [report](https://www.documentcloud.org/documents/7245062-EPIC-Report-Yr2-PartRpt10-15-20.html) on those schools.
-“It’s a double-edged sword,” she added. “You’re trying to turn around your school, maybe buying new curriculum, investing in new training and instructional techniques. And you’re kind of wasting your money because teachers are leaving.”
-Ending the pattern of turnover in Detroit and other low-income communities would likely require one of a number of  [system-wide investments](https://learningpolicyinstitute.org/blog/why-addressing-teacher-turnover-matters) that researchers suggest would reduce turnover for low-income schools. The state could also decrease class sizes, fund high-quality new teacher training programs, or pay for school staff — paraprofessionals, counselors, and social workers — who give teachers the freedom to focus on teaching.
-“Apart from really systematic investment in schools, it’s going to be hard to improve working conditions meaningfully,” said Lucy Sorensen, a professor at the State University of New York - Albany who has [studied](https://www.documentcloud.org/documents/7230048-The-Hidden-Costs-of-Teacher-Turnover.html) teacher turnover. “To the extent that urban schools are less funded, higher stress work environments, serving students with greater needs, that’s more likely to cause teachers to depart.”
-But systematic investment would be expensive, and school spending seems unlikely to rise sharply in the midst of a recession.
-[]
-header2: Salary matters
-[+text5]
-While salary isn’t the main reason teachers leave schools, low teacher pay in many schools that serve low-income students almost certainly contributes to high turnover in those schools.
-Compared to other states, Michigan teacher pay is [slightly above average](https://learningpolicyinstitute.org/product/understanding-teacher-shortages-interactive). Still, labor leaders point out that school funding has [declined](https://www.documentcloud.org/documents/6770487-Michigan-School-Finance-at-the-Crossroads-a.html#document/p5/a586552), and teachers receive less help from classroom aides and social workers. Those issues drove a national wave of teacher strikes in2018, and national polls show that a strong majority of Americans think that [teachers in general need a raise](https://pdkpoll.org/wp-content/uploads/2020/08/Poll52-2020_PollSupplement.pdf).
-“From our perspective there are a number of things that can be done about teacher turnover, but a core way is to pay teachers what they deserve to be paid,” David Hecker, president of the Michigan Federation of Teachers, said.
-Schools that enroll lots of low-income students receive [less state funding than their more affluent counterparts](http://schoolfinancedata.org/wp-content/uploads/2020/10/Profiles17_MI.pdf) and typically pay teachers less.
-The result is stark pay differentials that make it difficult for teachers to stay in some schools with very high need students.
-This dynamic has reached an extreme in Detroit. Three years ago, when Superintendent Nikolai Vitti took the reins at the Detroit Public Schools Community District, one of his top priorities was filling hundreds of vacant teaching positions. He succeeded, mostly by finding ways to increase teacher salaries: The district’s starting salary is now among the highest in the state at more than $51,000??.
-However, charter schools in Detroit and some districts in inner-ring suburbs receive less funding on average than the city district, especially after a quirk in the federal coronavirus relief package sent a disproportionate amount of aid to the city district.
-That means neighboring schools in Detroit sometimes pay teachers drastically different amounts. A starting teacher at Marin L. Winans Academy, a charter school, might make about [half as much](https://www.documentcloud.org/documents/7275521-Winans-Salary-Bands.html) as their peers at a district-run Wayne Elementary School seven blocks away. 
-The result is [fierce competition for teachers](https://www.detroitjournalism.org/2017/12/05/fight-teachers-weakens-detroit-schools/), and students are losing the most. [Research](https://journals.sagepub.com/doi/abs/10.3102/0002831212463813) links high levels of turnover with academic struggles, especially for low-income students and students of color.
-ADDONIZIO COMMENT??
-Many of the Detroit district’s new teachers moved from inner-ring suburbs and charter schools in the city, including Universal Academy, according to a Chalkbeat analysis. While some charters were able to match the district’s salary increases, they were in the minority. One charter leader accused the district of [“lur[ing] charter teachers away.”](https://www.documentcloud.org/documents/7230042-Madeline-Black-Education-Equity-an-Empty-Notion.html#document/p2/a585574)
-VITTI COMMENT??
-[]
-[+graphic4]
-step1: Between 2015 and 2019, XX teachers moved from Detroit charters to the city district.
+step2: What happened to the ones that left? 
 
-step2: The number increased after 2017, when Vitti began implementing a range of policies to increase pay for teachers all along the pay scale.
+step3: Some moved to a similar type of school. For instance, 4% of teachers in traditional schools moved to a different traditional school, sometimes in the same district.
+
+step4: Some changed sectors. One in 10 charter teachers moved to a traditional school.
+
+step5: And some retired, took a different job in education, or left Michigan’s education system entirely.
+
+step6: In Detroit, teachers are more likely to leave their schools. Charter schools accounted for 22 of the 25 Detroit schools with the highest teacher turnover in 2017-18. School closures contributed to that trend: Nearly 10% of teachers who left Detroit charter schools that year did so because their building closed.
+
+step7: Detroit charter teachers left for other types of schools both in and out of the city at a higher rate than traditional teachers. 
+
+step8: 12% of traditional and 18% of charter teachers retired or decided to no longer teach in Michigan.
+
+step9: Most teachers left their schools at the end of the school year, but in Detroit, 10% of teachers left in the middle of 2018-19. Midyear turnover is especially detrimental to student learning, [research shows](https://www.chalkbeat.org/2018/10/23/21105948/new-research-shows-just-how-much-losing-a-teacher-midyear-hurts-students). 
+
+step10: Statewide, 6.1% of teachers left their classrooms in the middle of that year, according to Chalkbeat’s analysis of educator certification data.
 []
+
 [+text6]
-Lamar Phillips, a music teacher, said he left his job at Detroit Merit Charter Academy because he didn’t feel the charter school supported his band program. What’s more, he felt he wasn’t being adequately compensated as a teacher with a masters degree who devoted long hours to his students. He chose to move to a school in the Detroit Public School Community District.
-“You’re talking about four, five, six, seven thousand dollars more, and there’s a union,” he said.
-That hasn’t helped turnover in charter schools, which tended to be high even before Vitti’s pay reforms.
-All but 3 the 25 Detroit schools with the worst teacher turnover in 2017-2018 were charter schools.
-Students at charter schools in Detroit perform better on average than their peers in the Detroit district, though they still lag far behind state averages. Janelle Brzezinski, a spokeswoman for Central Michigan University’s charter school center, acknowledged that turnover isn’t ideal, especially if it occurs midyear.
-But she said that high turnover isn’t necessarily a problem.
-“While consistency in a student’s daily education is always the goal, it may not be appropriate to infer that all turnover is negative especially when occurring between school years,” she said.
-Thirty-one charter schools overseen by CMU posted teacher turnover rates of 30% or higher in 2017-2018. About half of K-8 schools in that group posted below-average mean student growth score of 45 or lower.
-That year, 24 CMU schools lost more than 10% of their teachers in the middle of the school year.
-Brzezinski’s focus on turnover between years — as opposed to the middle of the year — lines up with new research suggesting that midyear teacher turnover imposes especially harsh costs on student learning.
-The authors of a 2018 [study](https://www.chalkbeat.org/2018/10/23/21105948/new-research-shows-just-how-much-losing-a-teacher-midyear-hurts-students) in North Carolina found sharp declines in math scores when teachers left in the middle of the year. The size of the decline was nearly as large as the difference between an average teacher and an excellent one. By contrast, the effect of teachers changing schools in the summer was much smaller; in some cases, those departures actually improved student performance.
-[]
-[+graphic5]
-step1: Mid-year turnover in recent years makes up roughly XX of all teacher turnover in Michigan — and XX in Detroit — a Chalkbeat analysis found.
-[]
-
-[+text7]
-Those numbers only include one teacher switch per year and thus may underestimate the scope of midyear turnover.
-“One year my daughter had three science teachers,” Bernita Bradley, a Detroit parent and education advocate. “This was literally from September to January. Every time they had a new teacher, my daughter and her peers had to learn the new teacher’s structure — ‘how do you teach, what do you expect from us?’ It’s like starting all over again.”
-[]
-
-header3: One crack in a leaky pipeline
-[+text8]
-Experts have been sounding alarms for years about cracks in Michigan’s teacher pipeline, pointing out that fewer people are entering teacher training programs and becoming certified as educators. Headlines periodically warn of a “teacher shortage.” The use of uncertified, long-term substitute teachers has skyrocketed.
-“Teacher turnover is only part of the teacher supply chain equation,” said Jack Elsey, executive director of the Detroit Children’s Fund, a nonprofit. “The percentage of teachers who are enrolling in teacher prep, the number of people going into teaching — all of those metrics scare the pants off me.”
-The problems in the teacher labor market are intertwined, Elsey said. If more people became teachers, it would be easier to replace teachers when they left. When lots of teachers leave, you need more new teachers.
-Turnover is expensive in more ways than one: There’s little doubt that it has contributed to Michigan’s twenty-year backslide in academic performance, likely leading to lower earnings for students and greater social service costs.
-Turnover itself also costs a lot of money. For each teacher who leaves, school must spend money to recruit, hire, and train a replacement. In North Carolina, a state with roughly as many K-12 students as Michigan, researchers [estimated](https://www.documentcloud.org/documents/7230038-Administrative-Cost-of-Turnover-Summary.html) that schools spent $337 million on turnover-related administrative costs in a single year.
-Policymakers and advocates in Michigan have repeatedly turned their focus to teacher turnover. The new state budget offers a small bonus for first year teachers in high-need schools. State education officials have raised alarms about the issue in numerous [reports](https://www.documentcloud.org/documents/7230047-Teacher-Mobility-Brief-Final-2017-09-18-v2-Ada.html), and the State Superintendent Michael Rice hosts a regular meeting with education leaders about the teacher labor market. In Detroit, a philanthropic effort called Teach313 strives to highlight the work of successful teachers in hopes of raising the profession’s appeal.
-But experts generally agree that any major change to the teacher labor market would require a substantial new investment in schools, one the Republican-controlled legislature has shown little interest in making.
-“We tend to make the story too much about the people and not enough about the context in which they’re expected to work,” said Barbara Schneider, a sociologist at the University of Michigan who studies teacher turnover.
-“It’s a resource issue.”
-REPUBLICAN COMMENT FORTHCOMING ??
-[]
-
-header4: Turnover and the pandemic
-[+text9]
-Towards the end of the first pandemic summer, pollsters working for the American Federation of Teachers, an educator’s union, published a [dismaying finding](https://www.aft.org/sites/default/files/survey_school-reopening_augsept2020.pdf). 1 in 3 teachers said that they were more likely to leave teaching or retire early because of COVID-19.
-Even if only some of those teachers actually left, such an exodus would add to the educational tragedy unfolding as a result of the pandemic. Many children have already fallen behind in seven months away from classrooms, and a spike in teacher turnover would cement a catastrophic loss of student learning for the state’s most vulnerable students.
-Such a spike remains a big “if,” at least until the pandemic recession wanes. Sorensen noted that teacher turnover appeared to decrease in some states during the last recession, perhaps because teachers felt there were fewer other jobs available.
-Still, the coronavirus has massively disrupted many teachers’ work lives, forcing them to adopt new roles and methods — such as online instruction — for which they have little training and which bear little resemblance to the job they signed up to do. Teachers understandably feel that they’re not succeeding in their jobs during the pandemic, according to a new paper co-authored by Nicole Simon, a researcher affiliated with the Project on the Next Generation of Teachers, an initiative at Harvard University.
-“All of the things that drive teachers out of the profession… are happening at extremely alarming rates right now,” Simon said. “My prediction is that we’ll see a mass exodus from teaching.”
-[]
-header5: Not all turnover solutions are expensive
-[+text10]
-What can be done? Even in the absence of any major reform, many experts argue that it’s possible to reduce turnover, to an extent, through seemingly small steps like simply asking teachers to stay. They point out that turnover varies widely [even among schools that receive similar funding and serve similar students](https://learningpolicyinstitute.org/blog/why-addressing-teacher-turnover-matters). In Detroit, for example, 39 schools retained more than 85% of their teachers in 2017-2018.
-What sets those schools apart? Often it’s communication, Sorensen said.
-“People in the education field have not done enough of the simple task of asking teachers what they need and what the difficulties are in their everyday jobs,” she added.
-That’s the concept behind Upbeat, a company founded in XXX that consults with school districts about reducing teacher turnover. The company is premised on the idea that teachers and school leaders often aren’t on the same page. Upbeat surveys teachers anonymously to identify their frustrations, then shares the results with administrators.
-“If teachers are involved in shaping the rules and procedures that govern their work days, they’re more likely to buy in,” said Henry Wellington, CEO of Upbeat. “If their performance evaluations are considered fair, they feel more successful. And we know that when teachers feel more successful they’re more likely to stay.”
-[]
-
-header6: Principals matter
-
-[+text11]
-To be sure, schools don’t need to hire an outside firm to create a strong internal culture.
-This work can be done just as easily by school staff and, crucially, by the school principal.
-Again and again, researchers find that principals have an outsized impact on teachers’ sense of success and the likelihood that they’ll leave.
-Sean McCauley began his math teaching career at Old Redford Academy middle school, a charter in Detroit. He eventually left because he wasn’t getting enough from his principals, who seldom stuck around long enough to build a working relationship.
-“I taught there for five years and I think I had six principals in that time,” he said. “I really liked some of the principals and I was excited for them to put their imprint on the school, and then in a year they’d be gone.”
-McCauley’s case shows how high turnover of principals and teachers can combine to destabilize an entire school.
-Principals play a huge part in shaping teachers’ experiences at work, and researchers consistently find that they are a crucial piece in retaining teachers. Turnover was a “formidable challenge” for Michigan’s troubled schools, according to a recent study of the state’s school turnaround program. Teachers in those programs listed school leadership as the [single most important reason](https://www.documentcloud.org/documents/7245062-EPIC-Report-Yr2-PartRpt10-15-20.html#document/p169/a586607) they would stay or go.
-That’s one reason why some efforts to improve teacher turnover begin with principals: the Detroit Children’s Fund, for instance, has helped fund a [training program](http://detroitchildrensfund.org/our-investments/talent-investments/) for principals in the city.
-Turnover at Old Redford was persistently high — of 20 teachers who began the school year in 2015, including McCauley, only two were left by the fall of 2019.
-[]
-[+graphic6]
-step1: Between 2015 and 2019, XX teachers left the Old Redford network for traditional schools in suburban Detroit. (show old redford (whole district) to trad suburban)
-
-step2: Another XX moved to the traditional district in Detroit. (show old redford to Detroit district)
-
-step3: Across Detroit, teachers are most likely to move from charter schools to traditional schools (highlight this trend citywide) — or to leave the city entirely for suburban schools (highlight this trend) — than the other way around.
-[]
-
-[+text12]
-Few of the teachers who stayed were experienced enough to mentor an early-career teacher like McCauley. A few years after he started teaching, he was asked to serve as a mentor for other, newer teachers.
+Sean McCauley began his math teaching career at Old Redford Academy middle school, another Detroit charter. He eventually left because he didn’t feel supported by school leaders, who seldom stuck around long enough to build a working relationship.
+McCauley can recall four principals who cycled through the school during his five years there.
+Teacher turnover at Old Redford was persistently high, too — of 20 classroom teachers who began the school year in 2015, including McCauley, only two were left by the fall of 2019, according to teacher certification data obtained by Chalkbeat.
+Few of the teachers who stayed were experienced enough to mentor an early-career teacher like McCauley. A few years after he started teaching, he was asked to mentor newer teachers.
 That’s when he began looking for another job. He felt he was too new himself to be a mentor.
-He now teaches at Berkshire Middle School, a traditional public school in Birmingham, an affluent suburb of Detroit.
-The year after he left, the school received two Fs from the state for student proficiency and growth.
-Old Redford was taken over by a new management company in 2019, Superintendent Sabrina Claude McGahee said in an email.
-She said the network tries to hold on to teachers using bonuses for teachers who work in hard-to-staff schools and training programs that are tailored to individual teachers’ needs. Noting that the network’s teacher salaries are roughly 80% of the regional average, she said she focuses on hiring teachers who are committed to the school’s mission.
-“While some teachers may be attracted to financial incentives, we focus on creating a positive climate and culture with support from administration so we can attract and retain highly qualified talent who are committed to our mission of educating students in an urban environment,” she said.
+He now teaches at Berkshire Middle School in Birmingham Public Schools, which has a more stable teaching staff.
+The year after he left, Old Redford received two F’s from the state for student proficiency and growth. The Old Redford school board later took over the school from the former management company and hired a new superintendent, Sabrina Claude McGahee. She said that Old Redford tries to retain teachers through “competitive salary that represents at least 80% of the Detroit area market value for teacher salaries”, retention bonuses, and “a positive climate and culture with support from administration [to] attract and retain highly qualified talent.”
 []
-header7: A place to stay
-[+text13]
-The person who stands out most in Idriss Saleh’s memories of freshman year is his U.S. History teacher, Ben Kruid.
-“That first year bond was amazing, I remember having a good time,” Saleh said. We actually accomplished things when he taught.”
-Kruid played old movies related to the subjects they were studying, and he often gave students a choice between taking tests or doing a project to demonstrate their learning. As Saleh prepares to apply to college, he wonders if, in a different world, Kruid might have written him a letter of recommendation.
+header2: A long running problem. Will the pandemic make it worse?
+[+text7]
+In recent decades, the rate of teachers leaving their schools in Michigan — roughly 20% annually — has remained several points [higher](https://www.documentcloud.org/documents/7230047-Teacher-Mobility-Brief-Final-2017-09-18-v2-Ada#document/p6/a2024218) than the national average.
+When the pandemic shuttered Michigan schools, some education leaders predicted teacher turnover would increase. 
+So far, though, the opposite has occurred. While more teachers retired in recent months than usual, perhaps to avoid a return to in-person instruction, fewer teachers changed schools during the last school year than in previous years, a Chalkbeat analysis found.
+The decline in turnover should not be surprising. Workers, teachers included, are less likely to leave their jobs during a recession, as research from the Great Recession [showed](https://www.shankerinstitute.org/blog/new-teacher-attrition-and-recession).
+But that doesn’t mean Michigan teachers won’t leave once the coronavirus recession wanes, especially given that morale plummeted during the pandemic.
+[]
+[+text8]
+“COVID … makes you feel like you’re there by yourself,” said Lincoln Stocks, a teacher at Eastpointe Community Schools and a vice president of the American Federation of Teachers Michigan. “And if you want to look out for your interests and be safe, then (some say that) you don’t give a damn about the kids. And that’s not true, but that’s how it looks. And we’ve got a lot of people who are very concerned for their safety.”
+The coronavirus has disrupted many teachers’ work lives, forcing them to adopt new roles and methods — such as online instruction — for which they have little training and which bear little resemblance to the job they signed up to do.
+Many teachers feel that they’re not succeeding in their jobs during the pandemic — a major predictor of whether they’ll leave the profession, according to a [paper](https://www.edworkingpapers.com/sites/default/files/ai20-279.pdf) published last summer.
+“All of the things that drive teachers out of the profession… are happening at extremely alarming rates right now,” said Nicole Simon, a co-author of the paper and a researcher affiliated with the Project on the Next Generation of Teachers at Harvard University. “My prediction is that we’ll see a mass exodus from teaching.”
+[]
+header3: What happens when they leave?
+[+text9]
+When teachers leave, it interrupts classroom routines and severs relationships with students, parents, and colleagues, killing the essential [connective tissue](https://www.documentcloud.org/documents/7275360-ELED-RelationalTrustInSchools-1115.html) that makes schools work.
+“That instability, it breaks communities,” said Darrin Camilleri, a Democratic state representative who previously taught social studies at a Detroit high school with high teacher turnover.
+“And community is a huge part of how you support students.”
+[]
+[+text10]
+In one [study of teacher turnover](https://journals.sagepub.com/doi/abs/10.3102/0002831212463813), researchers followed 850,000 New York City students over eight years and concluded that students in schools where many teachers left tended to score lower on English and math tests.
+The negative effects were especially strong in schools with more low-performing students and more Black students — who are most likely to attend schools with high teacher turnover.
+“It’s just not possible to have a functioning school with” very high levels of turnover, said Ed Fuller, an education professor at Penn State University who helped design a teacher retention policy in Austin, Texas.
+Turnover doesn’t just pose academic costs.
+Researchers [say](https://files.eric.ed.gov/fulltext/ED497176.pdf) finding and training new teachers is expensive, especially in hard-to-staff urban areas such as Detroit.
+There is no established price tag for teacher turnover in Michigan. But an [estimate](https://www.documentcloud.org/documents/7230038-Administrative-Cost-of-Turnover-Summary.html) made by economists in North Carolina, a state with a [similar](http://www.ncpolicywatch.com/2020/02/03/monday-numbers-a-closer-look-at-the-slowdown-in-teacher-attrition/) population to Michigan’s, put the cost at $337 million in a single year. That amount of money would go a long way in Michigan: It’s millions [more](https://www.uticak12.org/common/pages/DisplayFile.aspx?itemId=43486292) than what Utica Community Schools, the state’s second largest district, spent in total last year.
+Experts say that reducing teacher turnover statewide would likely require major new investment in schools. While Michigan’s school spending has ticked up slightly in recent years, overall its spending on schools has declined over the last two decades, adjusting for inflation. The state would need to raise an additional [$3.6 billion per year](https://education.msu.edu/ed-policy-phd/pdf/Michigan-School-Finance-at-the-Crossroads-A-Quarter-Center-of-State-Control.pdf) for schools in order to hit adequate spending levels [recommended](https://detroit.chalkbeat.org/2018/1/17/21104147/sweeping-study-proposes-major-changes-to-the-way-schools-are-funded-in-michigan) by a nonpartisan education panel in 2018.
+An overhaul of school funding, however, would require a tax increase, which would likely be dead on arrival in the current Republican-controlled state legislature.
+Rep. Brad Paquette, the Republican vice chair of the House Education Committee and a former teacher, is pessimistic about the prospect of any major new funding for schools in Michigan’s current political landscape.
+“We have a whole bunch of folks on the GOP side who are like, ‘Hey we’d love to give more money if we’re able to see more return on investment and more innovation in schools,’” he said. “On the left it’s like, ‘We want more investment but we don’t want to change in any way.’”
+Efforts by the state to transform the lowest performing schools — known in Michigan as the “partnership program” — often run aground due to teachers leaving. Turnover is one of the “driving issues” behind the struggles of partnership schools, said Katharine Strunk, a researcher at Michigan State University who co-authored a [report](https://www.documentcloud.org/documents/7245062-EPIC-Report-Yr2-PartRpt10-15-20.html) on the schools last year.
+“You’re trying to turn around your school, maybe buying new curriculum, investing in new training and instructional techniques,” she said. “And you’re kind of wasting your money because teachers are leaving.”
+[]
+header4: A place to stay
+[+text11]
+When Idriss Saleh thinks about his freshman year, history teacher Ben Kruid stands out the most. 
+“That first year bond was amazing,” Saleh said. “I remember having a good time. We actually accomplished things when he taught.”
+Kruid played old movies related to the subjects they were studying, and he often gave students a choice between taking tests or doing a project to demonstrate their learning. As Saleh prepares to apply to college, he wonders if in a different world Kruid might have written him a letter of recommendation.
 “It would have even been nice to see him in the hallways,” Saleh said. “Even if he wasn’t teaching my class. I’m pretty sure I’m not the only one who feels that way.”
-Kruid remembers Saleh as a “hard worker” and their class, U.S. History 9B, as a “ton of fun.” The class started out slowly, hampered by behavioral issues, but Kruid says the students bought in when he began allowing them to demonstrate their learning through projects rather than tests.
-History 9B was a high point of Kruid’s chaotic first year as a teacher in the United States. He grew up in Michigan and graduated from a liberal arts college in Grand Rapids, then taught English for several years in China and earned a masters degree in education in Finland.
-Those experiences did not prepare him to work in a school staffed by [novice](https://bit.ly/3jjVtoE) or [underqualified](https://bit.ly/3jkm70C) teachers who were likely to leave within a year, he said.
-“Most of the problems [at Universal Academy] stem from teacher turnover. The students, by the time they get to middle school, they’ve seen so much of it that they don’t seek a connection with their teacher, because why bother? The teachers are just going to leave the school.
-“From a teacher’s point of view, if you don’t have a relationship with your students, you’re lost. You’re spending all your time on classroom management.”
+Kruid remembers Saleh as a “hard worker” in U.S. History 9B. The class started out slowly, hampered by behavioral issues, but Kruid says the students bought in when he began allowing them to demonstrate their learning through projects rather than tests.
+High turnover throughout the school, though, made the rest of his job too chaotic to bear.
+“The students, by the time they get to middle school, they’ve seen so much of it that they don’t seek a connection with their teacher, because why bother?” he said. “The teachers are just going to leave the school.”
 Kruid left after one year. [Two-thirds](https://bit.ly/3ofUkCf) of teachers at the school left that year, too.
-He says he was conflicted about leaving. He had grown fond of Saleh and his peers in 9B. He wrestled with feelings of guilt. Was he abandoning them?
-In the end, he decided he was being asked to do the impossible. He felt teachers weren’t getting enough support from school leaders to deal with school behavior. Many families only spoke Arabic, but non-Arabic-speaking teachers didn’t get nearly enough translation help to communicate with their students’ parents, he recalled.
-?? UA COMMENT
-While he felt the administration at Universal Academy could have done more, he said the teachers across the state are being asked to meet growing student needs without enough support. “We’re being more and more asked to raise the children as well as teach them,” he said.
-The next year, he found a job at an unusual new school in the Grand Rapids district. It was based in a museum and had recently [received a $10 million grant](https://www.mlive.com/news/grand-rapids/2016/09/embargo_1.html) for innovative schools from [XQ](https://www.chalkbeat.org/2019/11/6/21121848/how-sometimes-overhyped-claims-about-the-future-of-work-drive-xq-the-organization-helping-nyc-open-n), a philanthropic initiative backed by Laurene Powell Jobs. The school used a “mastery” system, doing away with grades and allowing students to advance based purely on their proficiency. Kruid taught classes in Curation & Museum Sciences; he used objects from the museum to teach history lessons.
-The new job was exciting, he said. But that’s not why there is minimal turnover at the school, or why he hopes to teach there for the rest of his career.
-“There are a lot of cool things that make me want to stay,” he said, “but the biggest is that I get support from my principal and administration when I need it.”
+[]
+
+[+graphic4]
+step1: Both Kruid and Saleh began at Universal Academy in the fall of 2017.
+
+step2: Over the next few years, 80% of those fall 2017 teachers left for traditional schools, other charter schools, or stopped teaching. 
+
+step3: The majority of those teachers were gone by fall 2018, including Kruid who stayed only one year. 
+
+step4: By the fall of Saleh’s senior year, just 8 of the 39 teachers who had been at the school during his freshman year remained. None of Saleh’s freshman year teachers were still at Universal Academy by his senior year.
+[]
+[+text12]
+Kruid says he was conflicted about leaving. He had grown fond of Saleh and his peers in 9B. He wrestled with feelings of guilt. Was he abandoning them?
+In the end, he decided he was being asked to do the impossible. Student behavior issues were constant, and he felt he wasn’t getting enough support from school leaders. Making matters worse, many families only spoke Arabic, but non-Arabic-speaking teachers didn’t get nearly enough translation help.
+Universal Academy lost more than half of its teachers every year between 2015-16 and 2018-19. Through a spokesman, Universal Academy said its turnover rate over the last year was only 8%, and said that number should speak for itself. (That data is not yet publicly available.) The school declined to answer specific questions about conditions at the school.
+The year after Kruid left the school, he found a job at an unusual new school in the Grand Rapids district. It was based in a museum and had recently [received a $10 million grant](https://www.mlive.com/news/grand-rapids/2016/09/embargo_1.html) for innovative schools from [XQ](https://www.chalkbeat.org/2019/11/6/21121848/how-sometimes-overhyped-claims-about-the-future-of-work-drive-xq-the-organization-helping-nyc-open-n), a high-profile philanthropic initiative.
+He wants to stay for the rest of his career.
+“I get support from my principal and administration when I need it,” he said.
+Universal Academy hasn’t held in-person classes in more than a year due to the pandemic, but Saleh said teacher turnover hasn’t stopped.
+In January, at the start of the semester, a substitute led his World Studies class for three weeks before the school hired a new teacher, a young man who was leading a classroom for the first time, Saleh said.
+The new teacher was enthusiastic, but Saleh felt disengaged. He’d just been accepted to the University of Michigan-Dearborn, and as he waited for decisions from other colleges he was thinking ahead to the long hours he expects to spend in the library this fall, trying to catch up to other students who may never have lost a teacher in the middle of the year.
+He thought ahead, too, to the fall of 2022, when his younger siblings will enter high school.
+“It’s too late now to do anything about it for me,” he said. “But what I can do is still talk about it and try to make education better not for me, but for my siblings.”
+***Editor’s note****: 3/28/21: The story has been clarified to reflect that Old Redford Academy pays teachers “competitive salary that represents at least 80% of the Detroit area market value for teacher salaries”*
 []

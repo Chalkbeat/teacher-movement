@@ -1,147 +1,99 @@
 [
   {
-    "name": "Universal Academy Charter Fall 2015",
-    "label": "Universal Academy",
-    "display": "Universal <tspan x=\"41\" dy=\"1em\"> Academy </tspan>",
-    "select": "universal_academy"
-  },
-  {
-    "name": "Charter Fall 2015",
-    "label": "Charter",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
-    "name": "None Fall 2015",
-    "label": "Not Teaching in Michigan",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
-    "name": "Traditional Fall 2015",
-    "label": "Traditional",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
-    "name": "Universal Academy Charter Fall 2016",
-    "label": "Universal Academy",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
-    "name": "Charter Fall 2016",
-    "label": "Charter",
-    "display": "Charter <tspan x=\"12\" dy=\"1em\"> schools </tspan>",
-    "select": "universal_academy"
-  },
-  {
-    "name": "None Fall 2016",
-    "label": "Not Teaching in Michigan",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
-    "name": "Traditional Fall 2016",
-    "label": "Traditional",
-    "display": "",
-    "select": "universal_academy"
-  },
-  {
     "name": "Universal Academy Charter Fall 2017",
     "label": "Universal Academy",
-    "display": "",
-    "select": "universal_academy"
+    "display": "Universal Academy <br> teachers",
+    "select": "Universal Academy"
   },
   {
     "name": "Charter Fall 2017",
-    "label": "Charter",
+    "label": "a different charter school",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "None Fall 2017",
-    "label": "Not Teaching in Michigan",
+    "label": "not teaching in Michigan",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Traditional Fall 2017",
-    "label": "Traditional",
-    "display": "Traditional <tspan x=\"10\" dy=\"1em\"> schools </tspan>",
-    "select": "universal_academy"
+    "label": "a traditional school",
+    "display": "",
+    "select": "Universal Academy"
   },
   {
     "name": "Universal Academy Charter Fall 2018",
     "label": "Universal Academy",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Charter Fall 2018",
-    "label": "Charter",
+    "label": "a different charter school",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "None Fall 2018",
-    "label": "Not Teaching in Michigan",
-    "display": "Not Teaching <tspan x=\"14\" dy=\"1em\"> in Michigan </tspan>",
-    "select": "universal_academy"
+    "label": "not teaching in Michigan",
+    "display": "",
+    "select": "Universal Academy"
   },
   {
     "name": "Traditional Fall 2018",
-    "label": "Traditional",
-    "display": "",
-    "select": "universal_academy"
+    "label": "a traditional school",
+    "display": "Traditional <br> schools",
+    "select": "Universal Academy"
   },
   {
     "name": "Universal Academy Charter Fall 2019",
     "label": "Universal Academy",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Charter Fall 2019",
-    "label": "Charter",
-    "display": "",
-    "select": "universal_academy"
+    "label": "a different charter school",
+    "display": "Charter <br> schools",
+    "select": "Universal Academy"
   },
   {
     "name": "None Fall 2019",
-    "label": "Not Teaching in Michigan",
+    "label": "not teaching in Michigan",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Traditional Fall 2019",
-    "label": "Traditional",
+    "label": "a traditional school",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Universal Academy Charter Fall 2020",
     "label": "Universal Academy",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Charter Fall 2020",
-    "label": "Charter",
+    "label": "a different charter school",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "None Fall 2020",
-    "label": "Not Teaching in Michigan",
-    "display": "",
-    "select": "universal_academy"
+    "label": "not teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "Universal Academy"
   },
   {
     "name": "Traditional Fall 2020",
-    "label": "Traditional",
+    "label": "a traditional school",
     "display": "",
-    "select": "universal_academy"
+    "select": "Universal Academy"
   },
   {
     "name": "Detroit Fall 2018",
@@ -157,7 +109,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Detroit_General"
   },
@@ -175,7 +127,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Flint_General"
   },
@@ -193,7 +145,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Battle_Creek_General"
   },
@@ -211,7 +163,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Benton_Harbor_General"
   },
@@ -229,7 +181,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Grosse_Pointe_Park_General"
   },
@@ -247,7 +199,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Bloomfield_Hills_General"
   },
@@ -265,7 +217,7 @@
   },
   {
     "name": "Moved Fall 2019",
-    "label": "",
+    "label": "Moved",
     "display": "",
     "select": "Saint_Joseph_General"
   },
@@ -273,18 +225,342 @@
     "name": "Statewide Fall 2018",
     "label": "",
     "display": "",
-    "select": "Statewide_General"
+    "select": "Michigan_Teacher_Turnover_(18-19)_General"
   },
   {
     "name": "Stayed Fall 2019",
     "label": "",
     "display": "",
-    "select": "Statewide_General"
+    "select": "Michigan_Teacher_Turnover_(18-19)_General"
   },
   {
     "name": "Moved Fall 2019",
+    "label": "Moved",
+    "display": "",
+    "select": "Michigan_Teacher_Turnover_(18-19)_General"
+  },
+  {
+    "name": "Charter City Fall 2018",
+    "label": "a Detroit charter school",
+    "display": "Detroit charter school teachers",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City Different Fall 2018",
+    "label": "a different Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter Other Fall 2018",
+    "label": "a non-Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "not teaching in Michigan",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional Other Fall 2018",
+    "label": "a non-Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City Different Fall 2018",
+    "label": "a different Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City Fall 2018",
+    "label": "a Detroit traditional school",
+    "display": "Detroit traditional school teachers",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City EOY 2019",
+    "label": "a Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City Different EOY 2019",
+    "label": "a different Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter Other EOY 2019",
+    "label": "a non-Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "None EOY 2019",
+    "label": "not teaching in Michigan",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional Other EOY 2019",
+    "label": "a non-Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City Different EOY 2019",
+    "label": "a different Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City EOY 2019",
+    "label": "a Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City Fall 2019",
+    "label": "a Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City Different Fall 2019",
+    "label": "a different Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter Other Fall 2019",
+    "label": "a non-Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "not teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional Other Fall 2019",
+    "label": "a non-Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City Different Fall 2019",
+    "label": "a different Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Traditional City Fall 2019",
+    "label": "a Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819_midyear"
+  },
+  {
+    "name": "Charter City Fall 2018",
+    "label": "a Detroit charter school",
+    "display": "Detroit charter school teachers",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter City Different Fall 2018",
+    "label": "a different Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter Other Fall 2018",
+    "label": "a non-Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "not teaching in Michigan",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional Other Fall 2018",
+    "label": "a non-Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional City Different Fall 2018",
+    "label": "a different Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional City Fall 2018",
+    "label": "a Detroit traditional school",
+    "display": "Detroit traditional school teachers",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter City Fall 2019",
+    "label": "a Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter City Different Fall 2019",
+    "label": "a different Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter Other Fall 2019",
+    "label": "a non-Detroit charter school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "not teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional Other Fall 2019",
+    "label": "a non-Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional City Different Fall 2019",
+    "label": "a different Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Traditional City Fall 2019",
+    "label": "a Detroit traditional school",
+    "display": "",
+    "select": "detroit_detail_1819"
+  },
+  {
+    "name": "Charter Fall 2018",
+    "label": "a charter school",
+    "display": "All charter <br> teachers",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Charter Different Fall 2018",
+    "label": "a different charter school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "None Fall 2018",
+    "label": "not teaching in Michigan",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Traditional Different Fall 2018",
+    "label": "a different traditional school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Traditional Fall 2018",
+    "label": "a traditional school",
+    "display": "All traditional teachers",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Charter Fall 2019",
+    "label": "a charter school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Charter Different Fall 2019",
+    "label": "a different charter school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "None Fall 2019",
+    "label": "not teaching in Michigan",
+    "display": "Not Teaching in Michigan",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Traditional Different Fall 2019",
+    "label": "a different traditional school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Traditional Fall 2019",
+    "label": "a traditional school",
+    "display": "",
+    "select": "statewide_detail_1819"
+  },
+  {
+    "name": "Statewide Fall 2018",
+    "label": "Charter",
+    "display": "",
+    "select": "Charter_Teachers"
+  },
+  {
+    "name": "Stayed Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Charter_Teachers"
+  },
+  {
+    "name": "Moved Fall 2019",
+    "label": "Charter",
+    "display": "",
+    "select": "Charter_Teachers"
+  },
+  {
+    "name": "Statewide Fall 2018",
+    "label": "Traditional",
+    "display": "",
+    "select": "Traditional_Teachers"
+  },
+  {
+    "name": "Stayed Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Traditional_Teachers"
+  },
+  {
+    "name": "Moved Fall 2019",
+    "label": "Traditional",
+    "display": "",
+    "select": "Traditional_Teachers"
+  },
+  {
+    "name": "National Fall 2018",
     "label": "",
     "display": "",
-    "select": "Statewide_General"
+    "select": "National_Teacher_Turnover_(12-13)_General"
+  },
+  {
+    "name": "Stayed Fall 2019",
+    "label": "",
+    "display": "",
+    "select": "National_Teacher_Turnover_(12-13)_General"
+  },
+  {
+    "name": "Moved Fall 2019",
+    "label": "Moved",
+    "display": "",
+    "select": "National_Teacher_Turnover_(12-13)_General"
   }
 ]

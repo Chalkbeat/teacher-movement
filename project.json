@@ -15,14 +15,17 @@
   "scripts": {
     "src/js/main.js": "build/app.js"
   },
-  "title": "",
-  "description": "",
-  "url": "",
-  "image": "assets/logo.png",
+  "title": "High teacher turnover is hurting Michigan's most vulnerable students",
+  "description": "A Chalkbeat analysis of more than one million rows of teacher workforce data sheds new light on the extent of the teacher movement in Michigan, how many students are affected, and the toll borne by students of color and students from low-income families.",
+  "url": "projects.chalkbeat.org/teacher-movement",
+  "image": "/assets/teacher-movement-5.png",
   "analytics": {
-    "topicIDs": [],
-    "primaryTopic": "",
-    "secondaryTopics": []
+    "bureau": "Detroit",
+    "series": "",
+    "primaryTopic": "Politics & Policy",
+    "storyType": ["Enterprise","Data and Visuals","Evergreen"],
+    "author": "Chalkbeat staff",
+    "secondaryTopics": ["Campaigns and elections","Federal policy and reform"]
   },
   "sheets": [
     "1Kpdc6pIxqBpziWURBnAPQz3XNKwkWuInEjVV_DfFRNc"
@@ -31,5 +34,5 @@
     "copy":"1Tu9VtvwRm1QEIf5gOA-9MsqFVF4lEuQMyJixbpRBtB8"
   },
   "embedded": true,
-  "production": false
+  "production": true
 }

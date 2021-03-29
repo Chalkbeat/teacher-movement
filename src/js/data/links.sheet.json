@@ -1,1292 +1,5 @@
 [
   {
-    "source_label": "Charter Fall 2015",
-    "target_label": "Charter Different Fall 2016",
-    "value": 125,
-    "percent": 1.56897201,
-    "source": 0,
-    "target": 6,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2015",
-    "target_label": "Charter Fall 2016",
-    "value": 5952,
-    "percent": 74.70817121,
-    "source": 0,
-    "target": 5,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 1231,
-    "percent": 15.45123635,
-    "source": 0,
-    "target": 7,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2015",
-    "target_label": "Traditional Fall 2016",
-    "value": 659,
-    "percent": 8.271620434,
-    "source": 0,
-    "target": 9,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "Charter Fall 2016",
-    "value": 1692,
-    "percent": 4.8835397,
-    "source": 2,
-    "target": 5,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 25145,
-    "percent": 72.5748261,
-    "source": 2,
-    "target": 7,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "Traditional Fall 2016",
-    "value": 7810,
-    "percent": 22.5416342,
-    "source": 2,
-    "target": 9,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2015",
-    "target_label": "Charter Fall 2016",
-    "value": 210,
-    "percent": 0.2997088543,
-    "source": 4,
-    "target": 5,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 5329,
-    "percent": 7.605468973,
-    "source": 4,
-    "target": 7,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2015",
-    "target_label": "Traditional Different Fall 2016",
-    "value": 4076,
-    "percent": 5.817206143,
-    "source": 4,
-    "target": 8,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2015",
-    "target_label": "Traditional Fall 2016",
-    "value": 60453,
-    "percent": 86.27761603,
-    "source": 4,
-    "target": 9,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2016",
-    "target_label": "Charter Different Fall 2017",
-    "value": 67,
-    "percent": 0.8402307499,
-    "source": 5,
-    "target": 11,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2016",
-    "target_label": "Charter Fall 2017",
-    "value": 5880,
-    "percent": 73.73965388,
-    "source": 5,
-    "target": 10,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 1133,
-    "percent": 14.2086782,
-    "source": 5,
-    "target": 12,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2016",
-    "target_label": "Traditional Fall 2017",
-    "value": 894,
-    "percent": 11.21143717,
-    "source": 5,
-    "target": 14,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "Charter Fall 2017",
-    "value": 1608,
-    "percent": 5.074316009,
-    "source": 7,
-    "target": 10,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 24979,
-    "percent": 78.82545994,
-    "source": 7,
-    "target": 12,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "Traditional Fall 2017",
-    "value": 5102,
-    "percent": 16.10022405,
-    "source": 7,
-    "target": 14,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2016",
-    "target_label": "Charter Fall 2017",
-    "value": 187,
-    "percent": 0.2563434728,
-    "source": 9,
-    "target": 10,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 5360,
-    "percent": 7.347599008,
-    "source": 9,
-    "target": 12,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2016",
-    "target_label": "Traditional Different Fall 2017",
-    "value": 3356,
-    "percent": 4.600474304,
-    "source": 9,
-    "target": 13,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2016",
-    "target_label": "Traditional Fall 2017",
-    "value": 64046,
-    "percent": 87.79558322,
-    "source": 9,
-    "target": 14,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2017",
-    "target_label": "Charter Different Fall 2018",
-    "value": 53,
-    "percent": 0.6883116883,
-    "source": 10,
-    "target": 16,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2017",
-    "target_label": "Charter Fall 2018",
-    "value": 5679,
-    "percent": 73.75324675,
-    "source": 10,
-    "target": 15,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 1097,
-    "percent": 14.24675325,
-    "source": 10,
-    "target": 17,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2017",
-    "target_label": "Traditional Fall 2018",
-    "value": 871,
-    "percent": 11.31168831,
-    "source": 10,
-    "target": 19,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "Charter Fall 2018",
-    "value": 1721,
-    "percent": 5.482637783,
-    "source": 12,
-    "target": 15,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 24512,
-    "percent": 78.08856324,
-    "source": 12,
-    "target": 17,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "Traditional Fall 2018",
-    "value": 5157,
-    "percent": 16.42879898,
-    "source": 12,
-    "target": 19,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2017",
-    "target_label": "Charter Fall 2018",
-    "value": 286,
-    "percent": 0.390422366,
-    "source": 14,
-    "target": 15,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 5486,
-    "percent": 7.489010839,
-    "source": 14,
-    "target": 17,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2017",
-    "target_label": "Traditional Different Fall 2018",
-    "value": 3240,
-    "percent": 4.422966664,
-    "source": 14,
-    "target": 18,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2017",
-    "target_label": "Traditional Fall 2018",
-    "value": 64242,
-    "percent": 87.69760013,
-    "source": 14,
-    "target": 19,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2018",
-    "target_label": "Charter Different Fall 2019",
-    "value": 50,
-    "percent": 0.6473329881,
-    "source": 15,
-    "target": 21,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2018",
-    "target_label": "Charter Fall 2019",
-    "value": 5863,
-    "percent": 75.90626618,
-    "source": 15,
-    "target": 20,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 1075,
-    "percent": 13.91765924,
-    "source": 15,
-    "target": 22,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter Fall 2018",
-    "target_label": "Traditional Fall 2019",
-    "value": 736,
-    "percent": 9.528741585,
-    "source": 15,
-    "target": 24,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "Charter Fall 2019",
-    "value": 1674,
-    "percent": 5.387660519,
-    "source": 17,
-    "target": 20,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 24539,
-    "percent": 78.97718129,
-    "source": 17,
-    "target": 22,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "Traditional Fall 2019",
-    "value": 4858,
-    "percent": 15.63515819,
-    "source": 17,
-    "target": 24,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2018",
-    "target_label": "Charter Fall 2019",
-    "value": 216,
-    "percent": 0.294402268,
-    "source": 19,
-    "target": 20,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 5474,
-    "percent": 7.460916736,
-    "source": 19,
-    "target": 22,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2018",
-    "target_label": "Traditional Different Fall 2019",
-    "value": 3045,
-    "percent": 4.150254195,
-    "source": 19,
-    "target": 23,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Traditional Fall 2018",
-    "target_label": "Traditional Fall 2019",
-    "value": 64634,
-    "percent": 88.0944268,
-    "source": 19,
-    "target": 24,
-    "select": "statewide_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "Charter City Different Fall 2016",
-    "value": 56,
-    "percent": 2.82542886,
-    "source": 0,
-    "target": 8,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "Charter City Fall 2016",
-    "value": 1239,
-    "percent": 62.51261352,
-    "source": 0,
-    "target": 7,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "Charter Other Fall 2016",
-    "value": 126,
-    "percent": 6.357214934,
-    "source": 0,
-    "target": 9,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 381,
-    "percent": 19.22300706,
-    "source": 0,
-    "target": 10,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "Traditional City Fall 2016",
-    "value": 46,
-    "percent": 2.320887992,
-    "source": 0,
-    "target": 13,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2015",
-    "target_label": "Traditional Other Fall 2016",
-    "value": 134,
-    "percent": 6.760847629,
-    "source": 0,
-    "target": 11,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2015",
-    "target_label": "Charter City Fall 2016",
-    "value": 86,
-    "percent": 82.69230769,
-    "source": 2,
-    "target": 7,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2015",
-    "target_label": "Traditional City Fall 2016",
-    "value": 18,
-    "percent": 17.30769231,
-    "source": 2,
-    "target": 13,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "Charter City Fall 2016",
-    "value": 377,
-    "percent": 60.03184713,
-    "source": 3,
-    "target": 7,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "Traditional City Fall 2016",
-    "value": 251,
-    "percent": 39.96815287,
-    "source": 3,
-    "target": 13,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "Charter City Fall 2016",
-    "value": 51,
-    "percent": 1.72647258,
-    "source": 6,
-    "target": 7,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "Charter Other Fall 2016",
-    "value": 14,
-    "percent": 0.4739336493,
-    "source": 6,
-    "target": 9,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 384,
-    "percent": 12.99932295,
-    "source": 6,
-    "target": 10,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "Traditional City Different Fall 2016",
-    "value": 209,
-    "percent": 7.075152336,
-    "source": 6,
-    "target": 12,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "Traditional City Fall 2016",
-    "value": 2186,
-    "percent": 74.0013541,
-    "source": 6,
-    "target": 13,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2015",
-    "target_label": "Traditional Other Fall 2016",
-    "value": 110,
-    "percent": 3.723764387,
-    "source": 6,
-    "target": 11,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2015",
-    "target_label": "Charter City Fall 2016",
-    "value": 23,
-    "percent": 48.93617021,
-    "source": 4,
-    "target": 7,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2015",
-    "target_label": "Traditional City Fall 2016",
-    "value": 24,
-    "percent": 51.06382979,
-    "source": 4,
-    "target": 13,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "Charter City Different Fall 2017",
-    "value": 22,
-    "percent": 1.200873362,
-    "source": 7,
-    "target": 15,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "Charter City Fall 2017",
-    "value": 1186,
-    "percent": 64.73799127,
-    "source": 7,
-    "target": 14,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "Charter Other Fall 2017",
-    "value": 105,
-    "percent": 5.731441048,
-    "source": 7,
-    "target": 16,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 294,
-    "percent": 16.04803493,
-    "source": 7,
-    "target": 17,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "Traditional City Fall 2017",
-    "value": 67,
-    "percent": 3.65720524,
-    "source": 7,
-    "target": 20,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2016",
-    "target_label": "Traditional Other Fall 2017",
-    "value": 158,
-    "percent": 8.624454148,
-    "source": 7,
-    "target": 18,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2016",
-    "target_label": "Charter City Fall 2017",
-    "value": 83,
-    "percent": 74.10714286,
-    "source": 9,
-    "target": 14,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2016",
-    "target_label": "Traditional City Fall 2017",
-    "value": 29,
-    "percent": 25.89285714,
-    "source": 9,
-    "target": 20,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "Charter City Fall 2017",
-    "value": 365,
-    "percent": 44.45797808,
-    "source": 10,
-    "target": 14,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "Traditional City Fall 2017",
-    "value": 456,
-    "percent": 55.54202192,
-    "source": 10,
-    "target": 20,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "Charter City Fall 2017",
-    "value": 32,
-    "percent": 1.170446233,
-    "source": 13,
-    "target": 14,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "Charter Other Fall 2017",
-    "value": 10,
-    "percent": 0.3657644477,
-    "source": 13,
-    "target": 16,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 255,
-    "percent": 9.326993416,
-    "source": 13,
-    "target": 17,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "Traditional City Different Fall 2017",
-    "value": 228,
-    "percent": 8.339429407,
-    "source": 13,
-    "target": 19,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "Traditional City Fall 2017",
-    "value": 2128,
-    "percent": 77.83467447,
-    "source": 13,
-    "target": 20,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2016",
-    "target_label": "Traditional Other Fall 2017",
-    "value": 81,
-    "percent": 2.962692026,
-    "source": 13,
-    "target": 18,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2016",
-    "target_label": "Charter City Fall 2017",
-    "value": 18,
-    "percent": 35.29411765,
-    "source": 11,
-    "target": 14,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2016",
-    "target_label": "Traditional City Fall 2017",
-    "value": 33,
-    "percent": 64.70588235,
-    "source": 11,
-    "target": 20,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "Charter City Different Fall 2018",
-    "value": 24,
-    "percent": 1.408450704,
-    "source": 14,
-    "target": 22,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "Charter City Fall 2018",
-    "value": 1072,
-    "percent": 62.91079812,
-    "source": 14,
-    "target": 21,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "Charter Other Fall 2018",
-    "value": 76,
-    "percent": 4.460093897,
-    "source": 14,
-    "target": 23,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 290,
-    "percent": 17.01877934,
-    "source": 14,
-    "target": 24,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "Traditional City Fall 2018",
-    "value": 118,
-    "percent": 6.924882629,
-    "source": 14,
-    "target": 27,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2017",
-    "target_label": "Traditional Other Fall 2018",
-    "value": 124,
-    "percent": 7.276995305,
-    "source": 14,
-    "target": 25,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2017",
-    "target_label": "Charter City Fall 2018",
-    "value": 60,
-    "percent": 56.60377358,
-    "source": 16,
-    "target": 21,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2017",
-    "target_label": "Traditional City Fall 2018",
-    "value": 46,
-    "percent": 43.39622642,
-    "source": 16,
-    "target": 27,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "Charter City Fall 2018",
-    "value": 408,
-    "percent": 52.71317829,
-    "source": 17,
-    "target": 21,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "Traditional City Fall 2018",
-    "value": 366,
-    "percent": 47.28682171,
-    "source": 17,
-    "target": 27,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "Charter City Fall 2018",
-    "value": 37,
-    "percent": 1.258075485,
-    "source": 20,
-    "target": 21,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "Charter Other Fall 2018",
-    "value": 18,
-    "percent": 0.6120367222,
-    "source": 20,
-    "target": 23,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 408,
-    "percent": 13.87283237,
-    "source": 20,
-    "target": 24,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "Traditional City Different Fall 2018",
-    "value": 261,
-    "percent": 8.874532472,
-    "source": 20,
-    "target": 26,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "Traditional City Fall 2018",
-    "value": 2152,
-    "percent": 73.17239034,
-    "source": 20,
-    "target": 27,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2017",
-    "target_label": "Traditional Other Fall 2018",
-    "value": 65,
-    "percent": 2.210132608,
-    "source": 20,
-    "target": 25,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2017",
-    "target_label": "Charter City Fall 2018",
-    "value": 10,
-    "percent": 12.04819277,
-    "source": 18,
-    "target": 21,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2017",
-    "target_label": "Traditional City Fall 2018",
-    "value": 73,
-    "percent": 87.95180723,
-    "source": 18,
-    "target": 27,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "Charter City Different Fall 2019",
-    "value": 9,
-    "percent": 0.5597014925,
-    "source": 21,
-    "target": 29,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "Charter City Fall 2019",
-    "value": 1066,
-    "percent": 66.29353234,
-    "source": 21,
-    "target": 28,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "Charter Other Fall 2019",
-    "value": 61,
-    "percent": 3.793532338,
-    "source": 21,
-    "target": 30,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 288,
-    "percent": 17.91044776,
-    "source": 21,
-    "target": 31,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "Traditional City Fall 2019",
-    "value": 104,
-    "percent": 6.467661692,
-    "source": 21,
-    "target": 34,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter City Fall 2018",
-    "target_label": "Traditional Other Fall 2019",
-    "value": 80,
-    "percent": 4.975124378,
-    "source": 21,
-    "target": 32,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2018",
-    "target_label": "Charter City Fall 2019",
-    "value": 47,
-    "percent": 65.27777778,
-    "source": 23,
-    "target": 28,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Other Fall 2018",
-    "target_label": "Traditional City Fall 2019",
-    "value": 25,
-    "percent": 34.72222222,
-    "source": 23,
-    "target": 34,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "Charter City Fall 2019",
-    "value": 429,
-    "percent": 54.85933504,
-    "source": 24,
-    "target": 28,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "Traditional City Fall 2019",
-    "value": 353,
-    "percent": 45.14066496,
-    "source": 24,
-    "target": 34,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "Charter City Fall 2019",
-    "value": 21,
-    "percent": 0.6962864721,
-    "source": 27,
-    "target": 28,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "Charter Other Fall 2019",
-    "value": 7,
-    "percent": 0.2320954907,
-    "source": 27,
-    "target": 30,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 352,
-    "percent": 11.67108753,
-    "source": 27,
-    "target": 31,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "Traditional City Different Fall 2019",
-    "value": 333,
-    "percent": 11.04111406,
-    "source": 27,
-    "target": 33,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "Traditional City Fall 2019",
-    "value": 2234,
-    "percent": 74.07161804,
-    "source": 27,
-    "target": 34,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional City Fall 2018",
-    "target_label": "Traditional Other Fall 2019",
-    "value": 69,
-    "percent": 2.287798408,
-    "source": 27,
-    "target": 32,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2018",
-    "target_label": "Charter City Fall 2019",
-    "value": 25,
-    "percent": 28.73563218,
-    "source": 25,
-    "target": 28,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Traditional Other Fall 2018",
-    "target_label": "Traditional City Fall 2019",
-    "value": 62,
-    "percent": 71.26436782,
-    "source": 25,
-    "target": 34,
-    "select": "detroit_detail"
-  },
-  {
-    "source_label": "Charter Fall 2015",
-    "target_label": "Universal Academy Charter Fall 2016",
-    "value": 3,
-    "percent": 100,
-    "source": 1,
-    "target": 4,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "None Fall 2015",
-    "target_label": "Universal Academy Charter Fall 2016",
-    "value": 20,
-    "percent": 100,
-    "source": 2,
-    "target": 4,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Traditional Fall 2015",
-    "target_label": "Universal Academy Charter Fall 2016",
-    "value": 1,
-    "percent": 100,
-    "source": 3,
-    "target": 4,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2015",
-    "target_label": "Charter Fall 2016",
-    "value": 13,
-    "percent": 30.95238095,
-    "source": 0,
-    "target": 5,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2015",
-    "target_label": "None Fall 2016",
-    "value": 4,
-    "percent": 9.523809524,
-    "source": 0,
-    "target": 6,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2015",
-    "target_label": "Traditional Fall 2016",
-    "value": 8,
-    "percent": 19.04761905,
-    "source": 0,
-    "target": 7,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2015",
-    "target_label": "Universal Academy Charter Fall 2016",
-    "value": 17,
-    "percent": 40.47619048,
-    "source": 0,
-    "target": 4,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Charter Fall 2016",
-    "target_label": "Universal Academy Charter Fall 2017",
-    "value": 3,
-    "percent": 100,
-    "source": 5,
-    "target": 8,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "None Fall 2016",
-    "target_label": "Universal Academy Charter Fall 2017",
-    "value": 26,
-    "percent": 100,
-    "source": 6,
-    "target": 8,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Traditional Fall 2016",
-    "target_label": "Universal Academy Charter Fall 2017",
-    "value": 1,
-    "percent": 100,
-    "source": 7,
-    "target": 8,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2016",
-    "target_label": "Charter Fall 2017",
-    "value": 12,
-    "percent": 29.26829268,
-    "source": 4,
-    "target": 9,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2016",
-    "target_label": "None Fall 2017",
-    "value": 9,
-    "percent": 21.95121951,
-    "source": 4,
-    "target": 10,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2016",
-    "target_label": "Traditional Fall 2017",
-    "value": 11,
-    "percent": 26.82926829,
-    "source": 4,
-    "target": 11,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2016",
-    "target_label": "Universal Academy Charter Fall 2017",
-    "value": 9,
-    "percent": 21.95121951,
-    "source": 4,
-    "target": 8,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Charter Fall 2017",
-    "target_label": "Universal Academy Charter Fall 2018",
-    "value": 2,
-    "percent": 100,
-    "source": 9,
-    "target": 12,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "None Fall 2017",
-    "target_label": "Universal Academy Charter Fall 2018",
-    "value": 19,
-    "percent": 100,
-    "source": 10,
-    "target": 12,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2017",
-    "target_label": "Charter Fall 2018",
-    "value": 8,
-    "percent": 20.51282051,
-    "source": 8,
-    "target": 13,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2017",
-    "target_label": "None Fall 2018",
-    "value": 12,
-    "percent": 30.76923077,
-    "source": 8,
-    "target": 14,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2017",
-    "target_label": "Traditional Fall 2018",
-    "value": 8,
-    "percent": 20.51282051,
-    "source": 8,
-    "target": 15,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2017",
-    "target_label": "Universal Academy Charter Fall 2018",
-    "value": 11,
-    "percent": 28.20512821,
-    "source": 8,
-    "target": 12,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Charter Fall 2018",
-    "target_label": "Universal Academy Charter Fall 2019",
-    "value": 3,
-    "percent": 100,
-    "source": 13,
-    "target": 16,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "None Fall 2018",
-    "target_label": "Universal Academy Charter Fall 2019",
-    "value": 14,
-    "percent": 100,
-    "source": 14,
-    "target": 16,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Traditional Fall 2018",
-    "target_label": "Universal Academy Charter Fall 2019",
-    "value": 1,
-    "percent": 100,
-    "source": 15,
-    "target": 16,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2018",
-    "target_label": "Charter Fall 2019",
-    "value": 9,
-    "percent": 28.125,
-    "source": 12,
-    "target": 17,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2018",
-    "target_label": "None Fall 2019",
-    "value": 4,
-    "percent": 12.5,
-    "source": 12,
-    "target": 18,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2018",
-    "target_label": "Traditional Fall 2019",
-    "value": 4,
-    "percent": 12.5,
-    "source": 12,
-    "target": 19,
-    "select": "universal_academy"
-  },
-  {
-    "source_label": "Universal Academy Charter Fall 2018",
-    "target_label": "Universal Academy Charter Fall 2019",
-    "value": 15,
-    "percent": 46.875,
-    "source": 12,
-    "target": 16,
-    "select": "universal_academy"
-  },
-  {
     "source_label": "Detroit Fall 2018",
     "target_label": "Moved Fall 2019",
     "value": 1420,
@@ -1419,7 +132,7 @@
     "percent": 18.57280411,
     "source": 0,
     "target": 2,
-    "select": "Statewide_General"
+    "select": "Michigan_Teacher_Turnover_(18-19)_General"
   },
   {
     "source_label": "Statewide Fall 2018",
@@ -1428,6 +141,573 @@
     "percent": 81.42719589,
     "source": 0,
     "target": 1,
-    "select": "Statewide_General"
+    "select": "Michigan_Teacher_Turnover_(18-19)_General"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2017",
+    "target_label": "Charter Fall 2018",
+    "value": 8,
+    "percent": 20.51282051,
+    "source": 0,
+    "target": 5,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2017",
+    "target_label": "None Fall 2018",
+    "value": 12,
+    "percent": 30.76923077,
+    "source": 0,
+    "target": 6,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2017",
+    "target_label": "Traditional Fall 2018",
+    "value": 8,
+    "percent": 20.51282051,
+    "source": 0,
+    "target": 7,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2017",
+    "target_label": "Universal Academy Charter Fall 2018",
+    "value": 11,
+    "percent": 28.20512821,
+    "source": 0,
+    "target": 4,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "value": 1,
+    "percent": 9.090909091,
+    "source": 4,
+    "target": 9,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2018",
+    "target_label": "Universal Academy Charter Fall 2019",
+    "value": 10,
+    "percent": 90.90909091,
+    "source": 4,
+    "target": 8,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2019",
+    "target_label": "Charter Fall 2020",
+    "value": 1,
+    "percent": 9.090909091,
+    "source": 8,
+    "target": 13,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2019",
+    "target_label": "None Fall 2020",
+    "value": 2,
+    "percent": 18.18181818,
+    "source": 8,
+    "target": 14,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Universal Academy Charter Fall 2019",
+    "target_label": "Universal Academy Charter Fall 2020",
+    "value": 8,
+    "percent": 72.72727273,
+    "source": 8,
+    "target": 12,
+    "select": "Universal Academy"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "Charter Different Fall 2019",
+    "value": 50,
+    "percent": 0.6473329881,
+    "source": 0,
+    "target": 6,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "value": 5863,
+    "percent": 75.90626618,
+    "source": 0,
+    "target": 5,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "None Fall 2019",
+    "value": 1075,
+    "percent": 13.91765924,
+    "source": 0,
+    "target": 7,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "value": 736,
+    "percent": 9.528741585,
+    "source": 0,
+    "target": 9,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Charter Fall 2019",
+    "value": 216,
+    "percent": 0.294402268,
+    "source": 4,
+    "target": 5,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "None Fall 2019",
+    "value": 5474,
+    "percent": 7.460916736,
+    "source": 4,
+    "target": 7,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Traditional Different Fall 2019",
+    "value": 3045,
+    "percent": 4.150254195,
+    "source": 4,
+    "target": 8,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Traditional Fall 2019",
+    "value": 64634,
+    "percent": 88.0944268,
+    "source": 4,
+    "target": 9,
+    "select": "statewide_detail_1819"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "Moved Fall 2019",
+    "value": 1861,
+    "percent": 24.09373382,
+    "source": 0,
+    "target": 2,
+    "select": "Charter_Teachers"
+  },
+  {
+    "source_label": "Charter Fall 2018",
+    "target_label": "Stayed Fall 2019",
+    "value": 5863,
+    "percent": 75.90626618,
+    "source": 0,
+    "target": 1,
+    "select": "Charter_Teachers"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Moved Fall 2019",
+    "value": 8735,
+    "percent": 11.9055732,
+    "source": 0,
+    "target": 2,
+    "select": "Traditional_Teachers"
+  },
+  {
+    "source_label": "Traditional Fall 2018",
+    "target_label": "Stayed Fall 2019",
+    "value": 64634,
+    "percent": 88.0944268,
+    "source": 0,
+    "target": 1,
+    "select": "Traditional_Teachers"
+  },
+  {
+    "source_label": "National Fall 2018",
+    "target_label": "Moved Fall 2019",
+    "value": 16,
+    "percent": 16,
+    "source": 0,
+    "target": 2,
+    "select": "National_Teacher_Turnover_(12-13)_General"
+  },
+  {
+    "source_label": "National Fall 2018",
+    "target_label": "Stayed Fall 2019",
+    "value": 84,
+    "percent": 84,
+    "source": 0,
+    "target": 1,
+    "select": "National_Teacher_Turnover_(12-13)_General"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter City Different Fall 2019",
+    "value": 9,
+    "percent": 0.565681961,
+    "source": 0,
+    "target": 8,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter City Fall 2019",
+    "value": 1064,
+    "percent": 66.8761785,
+    "source": 0,
+    "target": 7,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter Other Fall 2019",
+    "value": 61,
+    "percent": 3.834066625,
+    "source": 0,
+    "target": 9,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "None Fall 2019",
+    "value": 284,
+    "percent": 17.85040855,
+    "source": 0,
+    "target": 10,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Traditional City Fall 2019",
+    "value": 94,
+    "percent": 5.908233815,
+    "source": 0,
+    "target": 13,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Traditional Other Fall 2019",
+    "value": 79,
+    "percent": 4.965430547,
+    "source": 0,
+    "target": 11,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Charter City Fall 2019",
+    "value": 23,
+    "percent": 0.7593265104,
+    "source": 6,
+    "target": 7,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Charter Other Fall 2019",
+    "value": 7,
+    "percent": 0.2310993727,
+    "source": 6,
+    "target": 9,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "None Fall 2019",
+    "value": 352,
+    "percent": 11.62099703,
+    "source": 6,
+    "target": 10,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional City Different Fall 2019",
+    "value": 343,
+    "percent": 11.32386926,
+    "source": 6,
+    "target": 12,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional City Fall 2019",
+    "value": 2234,
+    "percent": 73.7537141,
+    "source": 6,
+    "target": 13,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional Other Fall 2019",
+    "value": 70,
+    "percent": 2.310993727,
+    "source": 6,
+    "target": 11,
+    "select": "detroit_detail_1819",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter City Different EOY 2019",
+    "value": 4,
+    "percent": 0.2504696306,
+    "source": 0,
+    "target": 8,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter City EOY 2019",
+    "value": 1389,
+    "percent": 86.97557921,
+    "source": 0,
+    "target": 7,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Charter Other EOY 2019",
+    "value": 11,
+    "percent": 0.688791484,
+    "source": 0,
+    "target": 9,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "None EOY 2019",
+    "value": 155,
+    "percent": 9.705698184,
+    "source": 0,
+    "target": 10,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Traditional City EOY 2019",
+    "value": 11,
+    "percent": 0.688791484,
+    "source": 0,
+    "target": 13,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City Fall 2018",
+    "target_label": "Traditional Other EOY 2019",
+    "value": 27,
+    "percent": 1.690670006,
+    "source": 0,
+    "target": 11,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Charter City EOY 2019",
+    "value": 5,
+    "percent": 0.1651254954,
+    "source": 6,
+    "target": 7,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Charter Other EOY 2019",
+    "value": 1,
+    "percent": 0.03302509908,
+    "source": 6,
+    "target": 9,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "None EOY 2019",
+    "value": 203,
+    "percent": 6.704095112,
+    "source": 6,
+    "target": 10,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional City Different EOY 2019",
+    "value": 33,
+    "percent": 1.089828269,
+    "source": 6,
+    "target": 12,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional City EOY 2019",
+    "value": 2766,
+    "percent": 91.34742404,
+    "source": 6,
+    "target": 13,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City Fall 2018",
+    "target_label": "Traditional Other EOY 2019",
+    "value": 20,
+    "percent": 0.6605019815,
+    "source": 6,
+    "target": 11,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "Charter City Different Fall 2019",
+    "value": 10,
+    "percent": 0.7173601148,
+    "source": 7,
+    "target": 15,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "Charter City Fall 2019",
+    "value": 1043,
+    "percent": 74.82065997,
+    "source": 7,
+    "target": 14,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "Charter Other Fall 2019",
+    "value": 42,
+    "percent": 3.012912482,
+    "source": 7,
+    "target": 16,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "None Fall 2019",
+    "value": 171,
+    "percent": 12.26685796,
+    "source": 7,
+    "target": 17,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "Traditional City Fall 2019",
+    "value": 77,
+    "percent": 5.523672884,
+    "source": 7,
+    "target": 20,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Charter City EOY 2019",
+    "target_label": "Traditional Other Fall 2019",
+    "value": 51,
+    "percent": 3.658536585,
+    "source": 7,
+    "target": 18,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "Charter City Fall 2019",
+    "value": 15,
+    "percent": 0.533997864,
+    "source": 13,
+    "target": 14,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "Charter Other Fall 2019",
+    "value": 5,
+    "percent": 0.177999288,
+    "source": 13,
+    "target": 16,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "None Fall 2019",
+    "value": 216,
+    "percent": 7.689569242,
+    "source": 13,
+    "target": 17,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "Traditional City Different Fall 2019",
+    "value": 281,
+    "percent": 10.00355999,
+    "source": 13,
+    "target": 19,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "Traditional City Fall 2019",
+    "value": 2246,
+    "percent": 79.95728017,
+    "source": 13,
+    "target": 20,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
+  },
+  {
+    "source_label": "Traditional City EOY 2019",
+    "target_label": "Traditional Other Fall 2019",
+    "value": 46,
+    "percent": 1.63759345,
+    "source": 13,
+    "target": 18,
+    "select": "detroit_detail_1819_midyear",
+    "updated?": "updated"
   }
 ]
